@@ -25,21 +25,25 @@ antihtn_rxcui_classes:
 15. single_class_var: equivalent to class1 for non-combination products; concatenated list of classes for combination products
 
 antihtn_ndc_classes (derived from antihtn_rxcui_classes):
-1. RXCUI: RxNorm concept unique identifier
-2. RXAUI: RxNorm atom unique identifier
-3. SAB: Source of data for RxNorm entry (all "RXNORM" in these files)
-4. STR:  Description of drug/product
-5. medname#:  medication name (all drugs have non-NULL medname1; combination products will contain information in medname2 +/- medname3)
-6. medname2:  (as above)
-7. medname3:  (as above)
-8. class1: therapeutic class of corresponding medname (i.e., class1 refers to medname1; class2 refers to medname2; etc)
-9. class2: (as above)
-10. class3: (as above)
+1. STR:  Description of drug/product
+2. medname#:  medication name (all drugs have non-NULL medname1; combination products will contain information in medname2 +/- medname3)
+3. medname2:  (as above)
+4. medname3:  (as above)
+5. class1: therapeutic class of corresponding medname (i.e., class1 refers to medname1; class2 refers to medname2; etc)
+6. class2: (as above)
+7. class3: (as above) 
+8. single_medname_var:  equivalent to medname1 for non-combination products; concatenated list of drugs for combination products
+9. single_class_var: equivalent to class1 for non-combination products; concatenated list of classes for combination products
+10. FDC:  indicator variable for fixed-dose combination (1=yes; 0=no)
 11. n_drugs: # of antihypertensives in product
-12. FDC:  indicator variable for fixed-dose combination (1=yes; 0=no);
-13. single_medname_var:  equivalent to medname1 for non-combination products; concatenated list of drugs for combination products
-14. single_class_var: equivalent to class1 for non-combination products; concatenated list of classes for combination products
-15. ndcnum:  11-digit NDC number  
+12. RXCUI: RxNorm concept unique identifier
+13. RXAUI: RxNorm atom unique identifier
+14. STYPE: (generally ignorable - RxNorm-asserted value)
+15. CODE: (generally ignorable - RxNorm-asserted value)
+16. SAB_SAT: Source of data for RxNorm entry (generally ignorable)
+17. ndcnum:  11-digit NDC number
+31. SUPPRESS: (generally ignorable - RxNorm-asserted value)
+32. IN:  last RxNorm monthly release file in which the NDC was observed, represented as YYYYMMDD
 
 antihtn_rxcui_strength (also derived from antihtn_rxcui_classes):
 1. RXCUI: RxNorm concept unique identifier
