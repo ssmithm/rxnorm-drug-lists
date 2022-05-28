@@ -1,4 +1,9 @@
 # Antihypertensive Drugs
+
+By: Steve Smith, UF
+Last updated:  January 2022
+Current through RxNorm Release: January 3 2022
+
 These SAS datasets contain a curated list of antihypertensive drugs, labeled with therapeutic class. 
 
 They are derived from RxNorm, published by the U.S. National Library of Medicine.
@@ -26,6 +31,17 @@ antihtn_rxcui_classes:
 antihtn_ndc_classes (derived from antihtn_rxcui_classes):
 1-13. (same variables as above, except for TTY)
 14. ndcnum:  11-digit NDC number  
+
+antihtn_rxcui_strength (also derived from antihtn_rxcui_classes):
+1. RXCUI: RxNorm concept unique identifier
+2. STR:  Description of drug/product
+3. rxcui_related_scdc: RXCUI of the related (as asserted by RxNorm) Semantic Clinical Drug Component 
+4. medname1:  standardized antihypertensive medication name
+5. RXN_STRENGTH:  strength of the product
+6. RXN_BOSS_STRENGTH_NUM_VALUE:  (parsed) numerator value of the RXN_STRENGTH
+7. RXN_BOSS_STRENGTH_NUM_UNIT: (parsed) numerator unit of the RXN_STRENGTH
+8. RXN_BOSS_STRENGTH_DENOM_VALUE: (parsed) denominator value of the RXN_STRENGTH (for pills = 1)
+9. RXN_BOSS_STRENGTH_DENOM_UNIT: (parsed) denominator unit of the RXN_STRENGTH (for pills = 1)
 
 
 Medications included are:
