@@ -1,8 +1,8 @@
 # Antihypertensive Drugs
 
-Last updated:  January 2022
+Last updated:  February 2023
 
-Current through RxNorm Release: January 3 2022
+Current through RxNorm Release: December 5, 2022
 
 
 These SAS datasets contain a curated list of antihypertensive drugs, labeled with therapeutic class. They are derived from RxNorm, published by the U.S. National Library of Medicine. The lists include currently-prescribable drugs, as well as historical RXCUIs that are obsolete, or have been depricated. The NDC list in particular, is optimized for use with the PCORnet common data model, which specifies use of 11-digit NDC numbers. NDC numbers of other lengths are not included, even though they may be specified in RxNorm datasets.
@@ -51,10 +51,10 @@ antihtn_rxcui_strength (also derived from antihtn_rxcui_classes):
 3. rxcui_related_scdc: RXCUI of the related (as asserted by RxNorm) Semantic Clinical Drug Component 
 4. medname1:  standardized antihypertensive medication name
 5. RXN_STRENGTH:  strength of the product
-6. RXN_BOSS_STRENGTH_NUM_VALUE:  (parsed) numerator value of the RXN_STRENGTH
-7. RXN_BOSS_STRENGTH_NUM_UNIT: (parsed) numerator unit of the RXN_STRENGTH
-8. RXN_BOSS_STRENGTH_DENOM_VALUE: (parsed) denominator value of the RXN_STRENGTH (for pills = 1)
-9. RXN_BOSS_STRENGTH_DENOM_UNIT: (parsed) denominator unit of the RXN_STRENGTH (for pills = 1)
+6. RXN_STRENGTH_NUM_VALUE:  (parsed) numerator value of the RXN_STRENGTH
+7. RXN_STRENGTH_NUM_UNIT: (parsed) numerator unit of the RXN_STRENGTH
+8. RXN_STRENGTH_DENOM_VALUE: (parsed) denominator value of the RXN_STRENGTH (for pills = 1)
+9. RXN_STRENGTH_DENOM_UNIT: (parsed) denominator unit of the RXN_STRENGTH (for pills = 1)
 
 
 Medications included are:
