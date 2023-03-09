@@ -7,6 +7,8 @@
 
 These SAS datasets contain a curated list of **antihypertensive drugs**, labeled with therapeutic class. They are derived from RxNorm, published by the U.S. National Library of Medicine. The lists include currently-prescribable drugs, as well as historical RXCUIs that are obsolete, or have been depricated. The NDC list in particular, is optimized for use with the PCORnet common data model, which specifies use of 11-digit NDC numbers. NDC numbers of other lengths are not included, even though they may be specified in RxNorm datasets.
 
+Antihtn_RXCUI_classes includes **all** antihypertensives. A separate file, contained in the BPcontrolLab folder, contains a similar list, but with injectable dosage forms removed (including all nitroprusside and esmolol RXCUIs). It is possible that this list contains a small number of RXCUIs that represent products which *may* be injectables; however, the term type (TTY) for these RXCUIs does not definitively provide a dosage form, and it is not possible in most of these cases to distinguish, for example, oral liquids from injectable liquids. 
+
 
 
 ### Datasets & Corresponding variables
