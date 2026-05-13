@@ -1,0 +1,34 @@
+﻿Code,Description,Code System,Code System Version,Code System OID,TTY
+1100184,donepezil hydrochloride 23 MG Oral Tablet,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+1308569,24 HR rivastigmine 0.554 MG/HR Transdermal System,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+1599803,24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 28 MG Extended Release Oral Capsule,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+1599805,24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 14 MG Extended Release Oral Capsule,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+1805420,24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 21 MG Extended Release Oral Capsule,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+1805425,24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 7 MG Extended Release Oral Capsule,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+1858970,{7 (24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 14 MG Extended Release Oral Capsule) / 7 (24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 21 MG Extended Release Oral Capsule) / 7 (24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 28 MG Extended Release Oral Capsule) / 7 (24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 7 MG Extended Release Oral Capsule) } Pack,RXNORM,2025-01,2.16.840.1.113883.6.88,GPCK
+310436,galantamine 4 MG Oral Tablet,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+310437,galantamine 8 MG Oral Tablet,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+312835,rivastigmine 3 MG Oral Capsule,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+312836,rivastigmine 6 MG Oral Capsule,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+314214,rivastigmine 1.5 MG Oral Capsule,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+314215,rivastigmine 4.5 MG Oral Capsule,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+579148,galantamine 12 MG Oral Tablet,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+725021,24 HR rivastigmine 0.192 MG/HR Transdermal System,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+725023,24 HR rivastigmine 0.396 MG/HR Transdermal System,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+860695,24 HR galantamine hydrobromide 16 MG Extended Release Oral Capsule,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+860707,24 HR galantamine hydrobromide 24 MG Extended Release Oral Capsule,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+860715,24 HR galantamine hydrobromide 8 MG Extended Release Oral Capsule,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+860901,galantamine hydrobromide 4 MG/ML Oral Solution,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+996561,memantine hydrochloride 10 MG Oral Tablet,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+996571,memantine hydrochloride 5 MG Oral Tablet,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+996572,{21 (memantine hydrochloride 10 MG Oral Tablet) / 28 (memantine hydrochloride 5 MG Oral Tablet) } Pack,RXNORM,2025-01,2.16.840.1.113883.6.88,GPCK
+996594,24 HR memantine hydrochloride 14 MG Extended Release Oral Capsule,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+996603,24 HR memantine hydrochloride 21 MG Extended Release Oral Capsule,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+996609,24 HR memantine hydrochloride 28 MG Extended Release Oral Capsule,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+996615,24 HR memantine hydrochloride 7 MG Extended Release Oral Capsule,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+996624,{7 (24 HR memantine hydrochloride 14 MG Extended Release Oral Capsule) / 7 (24 HR memantine hydrochloride 21 MG Extended Release Oral Capsule) / 7 (24 HR memantine hydrochloride 28 MG Extended Release Oral Capsule) / 7 (24 HR memantine hydrochloride 7 MG Extended Release Oral Capsule) } Pack,RXNORM,2025-01,2.16.840.1.113883.6.88,GPCK
+996740,memantine hydrochloride 2 MG/ML Oral Solution,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+997220,donepezil hydrochloride 10 MG Disintegrating Oral Tablet,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+997223,donepezil hydrochloride 10 MG Oral Tablet,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+997226,donepezil hydrochloride 5 MG Disintegrating Oral Tablet,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD
+997229,donepezil hydrochloride 5 MG Oral Tablet,RXNORM,2025-01,2.16.840.1.113883.6.88,SCD

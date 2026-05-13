@@ -1,0 +1,1960 @@
+RXCUI,STR,TTY,n_drugs,loop_diuretic,thiazide_diuretic,Ksparing_diuretic,ACE_inhibitor,ARB,aldo_antagonist,alpha_blocker,beta_blocker,calcium_channel_blocker,centrally_acting,renin_antagonist,vasodilator,other,any_diuretic,FDC
+1000000,amlodipine 5 MG / hydrochlorothiazide 12.5 MG / olmesartan medoxomil 40 MG Oral Tablet [Tribenzor],SBD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+1000001,amlodipine 5 MG / hydrochlorothiazide 25 MG / olmesartan medoxomil 40 MG Oral Tablet,SCD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+1000005,amlodipine 5 MG / hydrochlorothiazide 25 MG / olmesartan medoxomil 40 MG Oral Tablet [Tribenzor],SBD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+1011710,aliskiren 150 MG / hydrochlorothiazide 12.5 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+1011712,aliskiren 150 MG / hydrochlorothiazide 12.5 MG Oral Tablet [Tekturna HCT],SBD,2,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+1011713,aliskiren 150 MG / hydrochlorothiazide 25 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+1011715,aliskiren 150 MG / hydrochlorothiazide 25 MG Oral Tablet [Tekturna HCT],SBD,2,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+1011718,aliskiren 150 MG / valsartan 160 MG Oral Tablet,SCD,2,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1
+1011729,aliskiren 300 MG / valsartan 320 MG Oral Tablet,SCD,2,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1
+1011736,aliskiren 150 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1011738,aliskiren 150 MG Oral Tablet [Tekturna],SBD,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1011739,aliskiren 300 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1011741,aliskiren 300 MG Oral Tablet [Tekturna],SBD,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1011750,aliskiren 300 MG / hydrochlorothiazide 12.5 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+1011752,aliskiren 300 MG / hydrochlorothiazide 12.5 MG Oral Tablet [Tekturna HCT],SBD,2,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+1011753,aliskiren 300 MG / hydrochlorothiazide 25 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+1011755,aliskiren 300 MG / hydrochlorothiazide 25 MG Oral Tablet [Tekturna HCT],SBD,2,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+1013930,12 HR clonidine hydrochloride 0.1 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1013933,clonidine Extended Release Oral Tablet [Kapvay],SBDF,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1013934,12 HR clonidine hydrochloride 0.1 MG Extended Release Oral Tablet [Kapvay],SBD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+104220,furosemide 4 MG/ML Oral Solution,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+104222,bumetanide 5 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+104230,spironolactone 1 MG/ML Oral Suspension,SCD,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+104231,spironolactone 2 MG/ML Oral Suspension,SCD,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+104232,spironolactone 5 MG/ML Oral Suspension,SCD,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+104233,spironolactone 10 MG/ML Oral Suspension,SCD,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+104245,benzthiazide 25 MG / triamterene 50 MG Oral Capsule,SCD,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+104248,chlorthalidone 50 MG / triamterene 50 MG Oral Tablet,SCD,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+104357,methyldopa 250 MG Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+104367,doxazosin 1 MG Oral Tablet [Cardura],SBD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+104368,doxazosin 2 MG Oral Tablet [Cardura],SBD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+104369,doxazosin 4 MG Oral Tablet [Cardura],SBD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+104370,captopril 25 MG / hydrochlorothiazide 12.5 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+104375,lisinopril 2.5 MG Oral Tablet [Zestril],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+104376,lisinopril 5 MG Oral Tablet [Zestril],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+104377,lisinopril 10 MG Oral Tablet [Zestril],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+104378,lisinopril 20 MG Oral Tablet [Zestril],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+104384,ramipril 2.5 MG Oral Capsule [Altace],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+104385,ramipril 5 MG Oral Capsule [Altace],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1050333,clonidine Extended Release Oral Tablet [Nexiclon],SBDF,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1050338,24 HR clonidine 0.17 MG Extended Release Oral Tablet [Nexiclon],SBD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1050796,aliskiren / amlodipine / hydrochlorothiazide Oral Tablet,SCDF,3,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1
+1050798,aliskiren 150 MG / amlodipine 5 MG / hydrochlorothiazide 12.5 MG Oral Tablet,SCD,3,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1
+1050803,aliskiren 300 MG / amlodipine 10 MG / hydrochlorothiazide 12.5 MG Oral Tablet,SCD,3,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1
+1050806,aliskiren 300 MG / amlodipine 10 MG / hydrochlorothiazide 25 MG Oral Tablet,SCD,3,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1
+1050809,aliskiren 300 MG / amlodipine 5 MG / hydrochlorothiazide 12.5 MG Oral Tablet,SCD,3,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1
+1050812,aliskiren 300 MG / amlodipine 5 MG / hydrochlorothiazide 25 MG Oral Tablet,SCD,3,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1
+1091622,diltiazem Extended Release Oral Tablet [Matzim],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1091623,24 HR diltiazem hydrochloride 420 MG Extended Release Oral Tablet [Matzim],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1091629,24 HR diltiazem hydrochloride 240 MG Extended Release Oral Tablet [Matzim],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1091632,24 HR diltiazem hydrochloride 180 MG Extended Release Oral Tablet [Matzim],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1091635,24 HR diltiazem hydrochloride 300 MG Extended Release Oral Tablet [Matzim],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1091638,24 HR diltiazem hydrochloride 360 MG Extended Release Oral Tablet [Matzim],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1091645,azilsartan Oral Tablet,SCDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1091646,azilsartan medoxomil 40 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1091649,azilsartan Oral Tablet [Edarbi],SBDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1091650,azilsartan medoxomil 40 MG Oral Tablet [Edarbi],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1091652,azilsartan medoxomil 80 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1091654,azilsartan medoxomil 80 MG Oral Tablet [Edarbi],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1111439,24 HR hydrochlorothiazide 25 MG / metoprolol tartrate 200 MG Extended Release Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1151296,bendroflumethiazide / propranolol Oral Product,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1151297,bendroflumethiazide / propranolol Pill,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1151304,bendroflumethiazide / timolol Oral Product,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1151305,bendroflumethiazide / timolol Pill,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1151306,bendroflumethiazide Oral Product,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1151307,bendroflumethiazide Pill,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1151343,bumetanide / potassium chloride Oral Product,SCDG,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+1151344,bumetanide / potassium chloride Pill,SCDG,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+1151348,bumetanide Oral Liquid Product,SCDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1151349,bumetanide Oral Product,SCDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1151350,bumetanide Pill,SCDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1151590,amiloride / atenolol / hydrochlorothiazide Oral Product,SCDG,3,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1
+1151591,amiloride / atenolol / hydrochlorothiazide Pill,SCDG,3,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1
+1151594,amiloride / bumetanide Oral Product,SCDG,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+1151595,amiloride / bumetanide Pill,SCDG,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+1151596,amiloride / cyclopenthiazide Oral Product,SCDG,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+1151597,amiloride / cyclopenthiazide Pill,SCDG,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+1151600,amiloride / furosemide Oral Product,SCDG,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+1151601,amiloride / furosemide Pill,SCDG,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+1151604,amiloride / hydrochlorothiazide / timolol Oral Product,SCDG,3,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1
+1151605,amiloride / hydrochlorothiazide / timolol Pill,SCDG,3,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1
+1151607,amiloride / hydrochlorothiazide Oral Product,SCDG,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+1151608,amiloride / hydrochlorothiazide Pill,SCDG,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+1151613,amiloride Oral Liquid Product,SCDG,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+1151614,amiloride Oral Product,SCDG,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+1151615,amiloride Pill,SCDG,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+1151888,diltiazem Oral Product,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1151889,diltiazem Pill,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1152277,amlodipine / hydrochlorothiazide / olmesartan Oral Product,SCDG,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+1152278,amlodipine / hydrochlorothiazide / olmesartan Pill,SCDG,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+1152279,amlodipine / hydrochlorothiazide / valsartan Oral Product,SCDG,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+1152280,amlodipine / hydrochlorothiazide / valsartan Pill,SCDG,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+1152281,amlodipine / atorvastatin Oral Product,SCDG,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+1152282,amlodipine / atorvastatin Pill,SCDG,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+1152283,amlodipine / benazepril Oral Product,SCDG,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1152284,amlodipine / benazepril Pill,SCDG,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1152285,amlodipine / olmesartan Oral Product,SCDG,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+1152286,amlodipine / olmesartan Pill,SCDG,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+1152287,amlodipine / telmisartan Oral Product,SCDG,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+1152288,amlodipine / telmisartan Pill,SCDG,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+1152289,amlodipine / valsartan Oral Product,SCDG,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+1152290,amlodipine / valsartan Pill,SCDG,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+1152291,amlodipine Oral Product,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1152292,amlodipine Pill,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1153385,clonidine Oral Product,SCDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1153386,clonidine Pill,SCDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1153387,clonidine Topical Product,SCDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1153651,acebutolol / hydrochlorothiazide Oral Product,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1153652,acebutolol / hydrochlorothiazide Pill,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1153659,acebutolol Oral Product,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1153660,acebutolol Pill,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1153807,betaxolol Oral Product,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1153808,betaxolol Pill,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1153863,chlorothiazide / methyldopa Oral Product,SCDG,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+1153864,chlorothiazide / methyldopa Pill,SCDG,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+1153865,chlorothiazide / reserpine Oral Product,SCDG,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+1153866,chlorothiazide / reserpine Pill,SCDG,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+1153868,chlorothiazide Oral Liquid Product,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1153869,chlorothiazide Oral Product,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1153870,chlorothiazide Pill,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1153903,clopamide / pindolol Oral Product,SCDG,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+1153904,clopamide / pindolol Pill,SCDG,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+1154366,atenolol / bendroflumethiazide Oral Product,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1154367,atenolol / bendroflumethiazide Pill,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1154370,atenolol / chlorthalidone Oral Product,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1154371,atenolol / chlorthalidone Pill,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1154374,atenolol / nifedipine Oral Product,SCDG,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+1154375,atenolol / nifedipine Pill,SCDG,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+1154377,atenolol Oral Liquid Product,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1154378,atenolol Oral Product,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1154379,atenolol Pill,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1154704,bisoprolol / hydrochlorothiazide Oral Product,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1154705,bisoprolol / hydrochlorothiazide Pill,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1154706,bisoprolol Oral Product,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1154707,bisoprolol Pill,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1155006,azilsartan Oral Product,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1155007,azilsartan Pill,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1155750,captopril / hydrochlorothiazide Oral Product,SCDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1155751,captopril / hydrochlorothiazide Pill,SCDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1155753,captopril Oral Product,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1155754,captopril Pill,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1155783,chlorthalidone / clonidine Oral Product,SCDG,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+1155784,chlorthalidone / clonidine Pill,SCDG,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+1155793,chlorthalidone / triamterene Oral Product,SCDG,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+1155794,chlorthalidone / triamterene Pill,SCDG,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+1155795,chlorthalidone Oral Product,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1155796,chlorthalidone Pill,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1156023,bendroflumethiazide / nadolol Oral Product,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1156024,bendroflumethiazide / nadolol Pill,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1156027,bendroflumethiazide / potassium chloride Oral Product,SCDG,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+1156028,bendroflumethiazide / potassium chloride Pill,SCDG,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+1156300,indapamide / perindopril Oral Product,SCDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1156301,indapamide / perindopril Pill,SCDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1156302,indapamide Oral Product,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1156303,indapamide Pill,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1156399,nadolol Oral Product,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1156400,nadolol Pill,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1156609,candesartan / hydrochlorothiazide Oral Product,SCDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1156610,candesartan / hydrochlorothiazide Pill,SCDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1156611,candesartan Oral Product,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1156612,candesartan Pill,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1156816,ethacrynate Oral Product,SCDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1156817,ethacrynate Pill,SCDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1157086,timolol Pill,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1157101,timolol Oral Product,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1157288,moexipril Oral Product,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1157289,moexipril Pill,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1157747,deserpidine / methyclothiazide Oral Product,SCDG,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+1157748,deserpidine / methyclothiazide Pill,SCDG,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+1157876,quinapril Oral Product,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1157877,quinapril Pill,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1158234,triamterene Oral Product,SCDG,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+1158235,triamterene Pill,SCDG,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+1158238,trichlormethiazide Oral Product,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1158239,trichlormethiazide Pill,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1158347,guanadrel Oral Product,SCDG,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1158348,guanadrel Pill,SCDG,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1158401,nebivolol Oral Product,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1158402,nebivolol Pill,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1158670,nicardipine Oral Product,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1158671,nicardipine Pill,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1158688,nifedipine Oral Product,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1158689,nifedipine Pill,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1159026,felodipine / ramipril Oral Product,SCDG,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1159027,felodipine / ramipril Pill,SCDG,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1159028,felodipine Oral Product,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1159029,felodipine Pill,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1159241,nisoldipine Oral Product,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1159242,nisoldipine Pill,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1159271,pindolol Oral Product,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1159272,pindolol Pill,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1159559,olmesartan Oral Product,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1159560,olmesartan Pill,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1159706,guanabenz Oral Product,SCDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1159707,guanabenz Pill,SCDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1159708,guanethidine / hydrochlorothiazide Oral Product,SCDG,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+1159709,guanethidine / hydrochlorothiazide Pill,SCDG,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+1159712,guanethidine Oral Product,SCDG,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1159713,guanethidine Pill,SCDG,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1159714,guanfacine Oral Product,SCDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1159715,guanfacine Pill,SCDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1159770,isradipine Oral Product,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1159771,isradipine Pill,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1160005,benazepril / hydrochlorothiazide Oral Product,SCDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1160006,benazepril / hydrochlorothiazide Pill,SCDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1160007,benazepril Oral Product,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1160008,benazepril Pill,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1160457,polythiazide / prazosin Oral Product,SCDG,2,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1
+1160458,polythiazide / prazosin Pill,SCDG,2,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1
+1160461,polythiazide Oral Product,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1160462,polythiazide Pill,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1160511,verapamil Oral Liquid Product,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1160512,verapamil Oral Product,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1160513,verapamil Pill,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1160544,benzthiazide / triamterene Oral Product,SCDG,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+1160545,benzthiazide / triamterene Pill,SCDG,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+1160589,carvedilol Oral Product,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1160590,carvedilol Pill,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1160764,doxazosin Oral Product,SCDG,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1160765,doxazosin Pill,SCDG,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1161121,spironolactone Oral Liquid Product,SCDG,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1161122,spironolactone Oral Product,SCDG,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1161123,spironolactone Pill,SCDG,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1161332,irbesartan Oral Product,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1161333,irbesartan Pill,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1161480,telmisartan Oral Product,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1161481,telmisartan Pill,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1161547,hydralazine / hydrochlorothiazide / reserpine Oral Product,SCDG,3,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1
+1161548,hydralazine / hydrochlorothiazide / reserpine Pill,SCDG,3,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1
+1161549,hydralazine / hydrochlorothiazide Oral Product,SCDG,2,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1
+1161550,hydralazine / hydrochlorothiazide Pill,SCDG,2,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1
+1161556,hydralazine Oral Product,SCDG,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1161586,labetalol Oral Product,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1161587,labetalol Pill,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1161700,prazosin Oral Product,SCDG,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1161701,prazosin Pill,SCDG,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1161909,eplerenone Oral Product,SCDG,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1161910,eplerenone Pill,SCDG,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1161918,eprosartan / hydrochlorothiazide Oral Product,SCDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1161919,eprosartan / hydrochlorothiazide Pill,SCDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1161920,eprosartan Oral Product,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1161921,eprosartan Pill,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1162117,hydralazine Pill,SCDG,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1162122,hydrochlorothiazide / labetalol Oral Product,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1162123,hydrochlorothiazide / labetalol Pill,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1162124,hydrochlorothiazide / lisinopril Oral Product,SCDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1162125,hydrochlorothiazide / lisinopril Pill,SCDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1162126,hydrochlorothiazide / losartan Oral Product,SCDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1162127,hydrochlorothiazide / losartan Pill,SCDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1162130,hydrochlorothiazide / methyldopa Oral Product,SCDG,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+1162131,hydrochlorothiazide / methyldopa Pill,SCDG,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+1162132,hydrochlorothiazide / metoprolol Oral Product,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1162133,hydrochlorothiazide / metoprolol Pill,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1162138,hydrochlorothiazide / propranolol Oral Product,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1162139,hydrochlorothiazide / propranolol Pill,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1162142,hydrochlorothiazide / reserpine Oral Product,SCDG,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+1162143,hydrochlorothiazide / reserpine Pill,SCDG,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+1162146,hydrochlorothiazide / spironolactone Oral Product,SCDG,2,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+1162147,hydrochlorothiazide / spironolactone Pill,SCDG,2,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+1162148,hydrochlorothiazide / timolol Oral Product,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1162149,hydrochlorothiazide / timolol Pill,SCDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1162152,hydrochlorothiazide / triamterene Oral Product,SCDG,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+1162153,hydrochlorothiazide / triamterene Pill,SCDG,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+1162156,hydrochlorothiazide / irbesartan Oral Product,SCDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1162157,hydrochlorothiazide / irbesartan Pill,SCDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1162649,enalapril / hydrochlorothiazide Oral Product,SCDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1162650,enalapril / hydrochlorothiazide Pill,SCDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1162652,enalapril Oral Product,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1162653,enalapril Pill,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1162674,fosinopril / hydrochlorothiazide Oral Product,SCDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1162675,fosinopril / hydrochlorothiazide Pill,SCDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1162676,fosinopril Oral Product,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1162677,fosinopril Pill,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1162708,furosemide / spironolactone Oral Product,SCDG,2,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+1162709,furosemide / spironolactone Pill,SCDG,2,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+1162710,furosemide / triamterene Oral Product,SCDG,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+1162711,furosemide / triamterene Pill,SCDG,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+1162713,furosemide Oral Liquid Product,SCDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1162714,furosemide Oral Product,SCDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1162715,furosemide Pill,SCDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1162752,torsemide Oral Product,SCDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1162753,torsemide Pill,SCDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1162756,trandolapril / verapamil Oral Product,SCDG,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1162757,trandolapril / verapamil Pill,SCDG,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1162758,trandolapril Oral Product,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1162759,trandolapril Pill,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1162775,hydrochlorothiazide / moexipril Oral Product,SCDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1162776,hydrochlorothiazide / moexipril Pill,SCDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1162777,hydrochlorothiazide / olmesartan Oral Product,SCDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1162778,hydrochlorothiazide / olmesartan Pill,SCDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1162779,hydrochlorothiazide / quinapril Oral Product,SCDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1162780,hydrochlorothiazide / quinapril Pill,SCDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1162781,hydrochlorothiazide / telmisartan Oral Product,SCDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1162782,hydrochlorothiazide / telmisartan Pill,SCDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1162783,hydrochlorothiazide / valsartan Oral Product,SCDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1162784,hydrochlorothiazide / valsartan Pill,SCDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1162786,hydrochlorothiazide Oral Product,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1162787,hydrochlorothiazide Pill,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1162865,methyclothiazide / reserpine Oral Product,SCDG,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+1162866,methyclothiazide / reserpine Pill,SCDG,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+1162869,methyclothiazide Oral Product,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1162870,methyclothiazide Pill,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1162876,methyldopa Oral Product,SCDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1162877,methyldopa Pill,SCDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1162935,propranolol Oral Liquid Product,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1162936,propranolol Oral Product,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1162937,propranolol Pill,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1163518,metolazone Oral Product,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1163519,metolazone Pill,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1163523,metoprolol Oral Product,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1163524,metoprolol Pill,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1163997,valsartan Oral Product,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1164019,hydroflumethiazide / spironolactone Oral Product,SCDG,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+1164020,hydroflumethiazide / spironolactone Pill,SCDG,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+1164232,terazosin Oral Product,SCDG,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1164233,terazosin Pill,SCDG,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1164294,aliskiren / amlodipine / hydrochlorothiazide Oral Product,SCDG,3,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1
+1164561,valsartan Pill,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1164689,lisinopril Oral Product,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1164690,lisinopril Pill,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1164758,penbutolol Oral Product,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1164759,penbutolol Pill,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1164809,ramipril Oral Product,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1164810,ramipril Pill,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1164880,aliskiren / amlodipine / hydrochlorothiazide Pill,SCDG,3,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1
+1164883,aliskiren / hydrochlorothiazide Oral Product,SCDG,2,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+1164884,aliskiren / hydrochlorothiazide Pill,SCDG,2,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+1164885,aliskiren / valsartan Oral Product,SCDG,2,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1
+1164886,aliskiren / valsartan Pill,SCDG,2,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1
+1164887,aliskiren Oral Product,SCDG,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1164888,aliskiren Pill,SCDG,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1165342,losartan Oral Product,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1165343,losartan Pill,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1165357,minoxidil Oral Product,SCDG,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1165358,minoxidil Pill,SCDG,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1165430,perindopril Oral Product,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1165431,perindopril Pill,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1165996,Accupril Oral Product,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1165997,Accupril Pill,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1166087,Azor Oral Product,SBDG,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+1166088,Azor Pill,SBDG,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+1166546,Hyzaar Oral Product,SBDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1166549,Hyzaar Pill,SBDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1166643,Isoptin Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1166644,Isoptin Pill,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1168391,Accuretic Oral Product,SBDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1168392,Accuretic Pill,SBDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1168400,Aceon Oral Product,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1168401,Aceon Pill,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1168680,Bumex Oral Product,SBDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1168681,Bumex Pill,SBDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1169224,Altace Oral Product,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1169225,Altace Pill,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1169289,Kapvay Oral Product,SBDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1169290,Kapvay Pill,SBDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1169416,Bystolic Oral Product,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1169417,Bystolic Pill,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1169532,Coreg Oral Product,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1169533,Coreg Pill,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1169536,Corgard Oral Product,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1169537,Corgard Pill,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1169598,Dilt Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1169599,Dilt Pill,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1169602,Diltzac Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1169603,Diltzac Pill,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1169664,Dyazide Oral Product,SBDG,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+1169665,Dyazide Pill,SBDG,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+1170193,Caduet Oral Product,SBDG,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+1170419,Dyrenium Oral Product,SBDG,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+1170420,Dyrenium Pill,SBDG,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+1170817,Benicar HCT Oral Product,SBDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1170818,Benicar HCT Pill,SBDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1170823,Benicar Oral Product,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1170826,Caduet Pill,SBDG,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+1170878,Calan Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1170879,Calan Pill,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1171082,Diovan HCT Oral Product,SBDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1171087,Diovan HCT Pill,SBDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1171463,Benicar Pill,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1171720,Diovan Oral Product,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1171721,Diovan Pill,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1172016,Inderal Oral Product,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1172017,Inderal Pill,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1172064,Afeditab CR Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1172065,Afeditab CR Pill,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1172182,Atacand HCT Pill,SBDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1172183,Atacand HCT Oral Product,SBDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1172187,Atacand Oral Product,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1172188,Atacand Pill,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1172369,Cozaar Oral Product,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1172370,Cozaar Pill,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1172765,InnoPran Oral Product,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1172766,InnoPran Pill,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1173159,Diuril Oral Liquid Product,SBDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1173160,Diuril Oral Product,SBDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1173191,Edarbi Oral Product,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1173192,Edarbi Pill,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1173193,Edecrin Oral Product,SBDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1173194,Edecrin Pill,SBDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1173241,Exforge Oral Product,SBDG,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+1173242,Exforge Pill,SBDG,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+1173249,Exforge HCT Oral Product,SBDG,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+1173250,Exforge HCT Pill,SBDG,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+1173417,Inspra Oral Product,SBDG,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1173418,Inspra Pill,SBDG,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1173446,Intuniv Oral Product,SBDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1173447,Intuniv Pill,SBDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1174846,Aldactazide Oral Product,SBDG,2,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+1174847,Aldactazide Pill,SBDG,2,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+1174848,Aldactone Oral Product,SBDG,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1174849,Aldactone Pill,SBDG,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1175010,Avalide Oral Product,SBDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1175011,Avalide Pill,SBDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1175647,Lasix Oral Product,SBDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1175648,Lasix Pill,SBDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1175669,Avapro Oral Product,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1175670,Avapro Pill,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1175760,Cardizem Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1175761,Cardizem Pill,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1175764,Cardura Oral Product,SBDG,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1175765,Cardura Pill,SBDG,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1175800,Cartia Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1175801,Cartia Pill,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1178006,Toprol Oral Product,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1178007,Toprol Pill,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1178058,Micardis Oral Product,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1178059,Micardis Pill,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1178060,Micardis-HCT Oral Product,SBDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1178061,Micardis-HCT Pill,SBDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1178275,Prinivil Oral Product,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1178276,Prinivil Pill,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1178488,Tiazac Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1178489,Tiazac Pill,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1179177,Trandate Oral Product,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1179178,Trandate Pill,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1179767,Minipress Oral Product,SBDG,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1179768,Minipress Pill,SBDG,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1180008,Procardia Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1180009,Procardia Pill,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1180263,Taztia Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1180264,Taztia Pill,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1180272,Lopressor HCT Oral Product,SBDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1180275,Lopressor HCT Pill,SBDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1180279,Lopressor Oral Product,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1180280,Lopressor Pill,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1180880,Tekturna Oral Product,SBDG,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1180881,Tekturna Pill,SBDG,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1180897,Lotensin HCT Pill,SBDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1180902,Lotensin HCT Oral Product,SBDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1180904,Lotensin Oral Product,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1180905,Lotensin Pill,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1180906,Lotrel Oral Product,SBDG,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1180909,Lotrel Pill,SBDG,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1181567,Matzim Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1181568,Matzim Pill,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1182013,Tenoretic Oral Product,SBDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1182014,Tenoretic Pill,SBDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1182019,Tenormin Oral Product,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1182020,Tenormin Pill,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1182147,Tribenzor Pill,SBDG,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+1182686,Tribenzor Oral Product,SBDG,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+1182741,Maxzide Oral Product,SBDG,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+1182742,Maxzide Pill,SBDG,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+1182865,Nexiclon Oral Product,SBDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1182866,Nexiclon Pill,SBDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1183759,Sular Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1183760,Sular Pill,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1184927,Thalitone Oral Product,SBDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1184928,Thalitone Pill,SBDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1185374,Salix - substance Oral Product,SBDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1185375,Salix - substance Pill,SBDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1185732,Norvasc Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1185733,Norvasc Pill,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1186904,Twynsta Pill,SBDG,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+1186905,Twynsta Oral Product,SBDG,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+1187277,Zestoretic Oral Product,SBDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1187278,Zestoretic Pill,SBDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1187283,Zestril Oral Product,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1187284,Zestril Pill,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1187449,Ziac Pill,SBDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1187450,Ziac Oral Product,SBDG,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+1187581,Vaseretic Oral Product,SBDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1187582,Vaseretic Pill,SBDG,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1187734,Vasotec Oral Product,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1187735,Vasotec Pill,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1187891,Verelan Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1187892,Verelan Pill,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1191185,penbutolol sulfate 20 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1235140,azilsartan / chlorthalidone Oral Product,SCDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1235141,azilsartan / chlorthalidone Pill,SCDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1235142,azilsartan / chlorthalidone Oral Tablet,SCDF,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1235144,azilsartan medoxomil 40 MG / chlorthalidone 12.5 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1235147,azilsartan / chlorthalidone Oral Tablet [Edarbyclor],SBDF,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1235148,Edarbyclor Oral Product,SBDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1235149,Edarbyclor Pill,SBDG,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1235150,azilsartan medoxomil 40 MG / chlorthalidone 12.5 MG Oral Tablet [Edarbyclor],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1235151,azilsartan medoxomil 40 MG / chlorthalidone 25 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1235157,azilsartan medoxomil 40 MG / chlorthalidone 25 MG Oral Tablet [Edarbyclor],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+1242404,24 HR doxazosin 4 MG Extended Release Oral Tablet [Cardura],SBD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1242408,24 HR doxazosin 8 MG Extended Release Oral Tablet [Cardura],SBD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1251903,ethacrynic acid 25 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1251905,ethacrynic acid 25 MG Oral Tablet [Edecrin],SBD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1251907,ethacrynic acid 50 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1295214,clonidine Oral Liquid Product,SCDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1295310,amlodipine Disintegrating Oral Product,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1295649,clonidine Transdermal Product,SCDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1297753,betaxolol hydrochloride 10 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1297757,betaxolol hydrochloride 20 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1299859,hydrochlorothiazide 12.5 MG / moexipril hydrochloride 15 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1299871,hydrochlorothiazide 12.5 MG / moexipril hydrochloride 7.5 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1299890,hydrochlorothiazide 25 MG / moexipril hydrochloride 15 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+1299896,moexipril hydrochloride 15 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1299897,moexipril hydrochloride 7.5 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1430140,Tekturna HCT Oral Product,SBDG,2,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+1430141,Tekturna HCT Pill,SBDG,2,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+1435622,enalapril Oral Liquid Product,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1435623,enalapril Oral Solution,SCDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1435624,enalapril maleate 1 MG/ML Oral Solution,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1435627,enalapril Oral Solution [Epaned],SBDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1435628,Epaned Oral Liquid Product,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1435629,Epaned Oral Product,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1435630,enalapril maleate 1 MG/ML Oral Solution [Epaned],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1495058,propranolol hydrochloride 4.28 MG/ML Oral Solution,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1495061,propranolol Oral Solution [Hemangeol],SBDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1495062,Hemangeol Oral Liquid Product,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1495063,Hemangeol Oral Product,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1495064,propranolol hydrochloride 4.28 MG/ML Oral Solution [Hemangeol],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+150750,atenolol 25 MG Oral Tablet [Tenormin],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+152414,atenolol 50 MG Oral Tablet [Tenormin],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+152916,atenolol 50 MG / chlorthalidone 12.5 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+153077,valsartan 40 MG Oral Capsule,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+153155,atenolol 25 MG / bendroflumethiazide 1.25 MG Oral Capsule,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+153665,irbesartan 75 MG Oral Tablet [Avapro],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+153666,irbesartan 150 MG Oral Tablet [Avapro],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+153667,irbesartan 300 MG Oral Tablet [Avapro],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+153822,candesartan cilexetil 4 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+153823,candesartan cilexetil 8 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1546051,furosemide Oral Tablet [Disal],SBDF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1546052,Disal Oral Product,SBDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1546053,Disal Pill,SBDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1546054,furosemide 12.5 MG Oral Tablet [Disal],SBD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1546056,furosemide 50 MG Oral Tablet [Disal],SBD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1600713,amlodipine / perindopril Oral Product,SCDG,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1600714,amlodipine / perindopril Pill,SCDG,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1600715,amlodipine / perindopril Oral Tablet,SCDF,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1600716,amlodipine 10 MG / perindopril arginine 14 MG Oral Tablet,SCD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1600719,amlodipine / perindopril Oral Tablet [Prestalia],SBDF,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1600720,Prestalia Oral Product,SBDG,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1600721,Prestalia Pill,SBDG,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1600722,amlodipine 10 MG / perindopril arginine 14 MG Oral Tablet [Prestalia],SBD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1600724,amlodipine 2.5 MG / perindopril arginine 3.5 MG Oral Tablet,SCD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1600726,amlodipine 2.5 MG / perindopril arginine 3.5 MG Oral Tablet [Prestalia],SBD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1600728,amlodipine 5 MG / perindopril arginine 7 MG Oral Tablet,SCD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1600730,amlodipine 5 MG / perindopril arginine 7 MG Oral Tablet [Prestalia],SBD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+1606347,metoprolol tartrate 37.5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1606349,metoprolol tartrate 75 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1798277,nebivolol / valsartan Oral Product,SCDG,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+1798278,nebivolol / valsartan Pill,SCDG,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+1798279,nebivolol / valsartan Oral Tablet,SCDF,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+1798281,nebivolol 5 MG / valsartan 80 MG Oral Tablet,SCD,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+1798284,nebivolol / valsartan Oral Tablet [Byvalson],SBDF,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+1798285,Byvalson Oral Product,SBDG,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+1798286,Byvalson Pill,SBDG,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+1798287,nebivolol 5 MG / valsartan 80 MG Oral Tablet [Byvalson],SBD,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+1806253,clonidine Transdermal System,SCDF,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1806882,lisinopril Oral Liquid Product,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1806883,lisinopril Oral Solution,SCDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1806884,lisinopril 1 MG/ML Oral Solution,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1806887,lisinopril Oral Solution [Qbrelis],SBDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1806888,Qbrelis Oral Liquid Product,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1806889,Qbrelis Oral Product,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1806890,lisinopril 1 MG/ML Oral Solution [Qbrelis],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1812011,Osmotic 24 HR nifedipine 30 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1812013,Osmotic 24 HR nifedipine 60 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1812015,Osmotic 24 HR nifedipine 90 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1943342,spironolactone Oral Suspension [Carospir],SBDF,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1943343,Carospir Oral Liquid Product,SBDG,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1943344,Carospir Oral Product,SBDG,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1943345,spironolactone 5 MG/ML Oral Suspension [Carospir],SBD,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+197361,amlodipine 5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+197379,atenolol 100 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+197380,atenolol 25 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+197381,atenolol 50 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+197382,atenolol 100 MG / chlorthalidone 25 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+197383,atenolol 50 MG / chlorthalidone 25 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+197394,bendroflumethiazide 5 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+197417,bumetanide 0.5 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+197418,bumetanide 1 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+197419,bumetanide 2 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+197436,captopril 25 MG / hydrochlorothiazide 15 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+197437,captopril 25 MG / hydrochlorothiazide 25 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+197438,captopril 50 MG / hydrochlorothiazide 15 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+197439,captopril 50 MG / hydrochlorothiazide 25 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+197475,chlorothiazide 250 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+197476,chlorothiazide 500 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+197477,chlorothiazide 500 MG / reserpine 0.125 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+197498,chlorthalidone 15 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+197499,chlorthalidone 25 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+197500,chlorthalidone 50 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+197625,doxazosin 1 MG Oral Tablet,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+197626,doxazosin 2 MG Oral Tablet,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+197627,doxazosin 4 MG Oral Tablet,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+197628,doxazosin 8 MG Oral Tablet,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+197730,furosemide 10 MG/ML Oral Solution,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+197731,furosemide 8 MG/ML Oral Solution,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+197732,furosemide 80 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+197743,guanabenz 4 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+197744,guanabenz 8 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+197745,guanfacine 1 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+197746,guanfacine 2 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+197770,hydrochlorothiazide 50 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+197771,hydrochlorothiazide 50 MG / reserpine 0.125 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+197815,indapamide 1.25 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+197816,indapamide 2.5 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+197848,isradipine 2.5 MG Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+197849,isradipine 5 MG Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+197884,lisinopril 40 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+197885,hydrochlorothiazide 12.5 MG / lisinopril 10 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+197886,hydrochlorothiazide 12.5 MG / lisinopril 20 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+197887,hydrochlorothiazide 25 MG / lisinopril 20 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+197950,methyclothiazide 2.5 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+197951,methyclothiazide 5 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+197952,deserpidine 0.5 MG / methyclothiazide 5 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+197953,deserpidine 0.25 MG / methyclothiazide 5 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+197954,methyclothiazide 2.5 MG / reserpine 0.1 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+197955,methyldopa 125 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+197956,methyldopa 250 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+197958,methyldopa 500 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+197959,chlorothiazide 250 MG / methyldopa 250 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+197960,hydrochlorothiazide 25 MG / methyldopa 250 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+197961,hydrochlorothiazide 50 MG / methyldopa 500 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+197962,hydrochlorothiazide 30 MG / methyldopa 500 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+197963,hydrochlorothiazide 15 MG / methyldopa 250 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+197977,metolazone 0.5 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+197978,metolazone 10 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+197979,metolazone 2.5 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+197986,minoxidil 10 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+197987,minoxidil 2.5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+198000,bendroflumethiazide 5 MG / nadolol 40 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+198001,bendroflumethiazide 5 MG / nadolol 80 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+198004,nadolol 120 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+198005,nadolol 160 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+198006,nadolol 20 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+198007,nadolol 40 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+198008,nadolol 80 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+198032,nifedipine 10 MG Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+198033,nifedipine 20 MG Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+198034,24 HR nifedipine 30 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+198035,24 HR nifedipine 60 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+198036,24 HR nifedipine 90 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+198104,pindolol 10 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+198105,pindolol 5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+198110,polythiazide 1 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+198111,polythiazide 2 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+198112,polythiazide 4 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+198141,prazosin 5 MG Oral Capsule,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+198188,ramipril 2.5 MG Oral Capsule,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+198189,ramipril 5 MG Oral Capsule,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+198222,spironolactone 100 MG Oral Tablet,SCD,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+198223,spironolactone 50 MG Oral Tablet,SCD,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+198224,hydrochlorothiazide 25 MG / spironolactone 25 MG Oral Tablet,SCD,2,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+198225,hydrochlorothiazide 50 MG / spironolactone 50 MG Oral Tablet,SCD,2,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+198284,timolol 10 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+198285,timolol 20 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+198286,timolol 5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+198312,triamterene 100 MG Oral Capsule,SCD,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+198313,triamterene 50 MG Oral Capsule,SCD,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+198316,hydrochlorothiazide 25 MG / triamterene 37.5 MG Oral Capsule,SCD,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+198319,trichlormethiazide 4 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+198369,torsemide 10 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+198370,torsemide 100 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+198371,torsemide 20 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+198372,torsemide 5 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1988305,diltiazem Extended Release Oral Capsule [Tiadylt],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1988306,Tiadylt Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1988307,Tiadylt Pill,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1988308,24 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule [Tiadylt],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1988311,24 HR diltiazem hydrochloride 180 MG Extended Release Oral Capsule [Tiadylt],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1988316,24 HR diltiazem hydrochloride 240 MG Extended Release Oral Capsule [Tiadylt],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1988319,24 HR diltiazem hydrochloride 300 MG Extended Release Oral Capsule [Tiadylt],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1988324,24 HR diltiazem hydrochloride 360 MG Extended Release Oral Capsule [Tiadylt],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1988330,24 HR diltiazem hydrochloride 420 MG Extended Release Oral Capsule [Tiadylt],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+199277,pindolol 15 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+199329,nifedipine 5 MG Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+199351,trandolapril 2 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+199352,trandolapril 4 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+199353,trandolapril 1 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+199610,furosemide 500 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+199622,trandolapril 0.5 MG Oral Capsule,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1996252,valsartan Oral Liquid Product,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1996253,valsartan Oral Solution,SCDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1996254,valsartan 4 MG/ML Oral Solution,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+199717,clopamide 5 MG / pindolol 10 MG Oral Tablet,SCD,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+199757,isradipine 2.5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+199776,minoxidil 5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+199796,prazosin 0.5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+199797,prazosin 1 MG Oral Tablet,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+199798,prazosin 2 MG Oral Tablet,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+199799,prazosin 5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+199816,trandolapril 1 MG Oral Capsule,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+199817,trandolapril 2 MG Oral Capsule,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+199850,valsartan 80 MG Oral Capsule,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1999027,metoprolol Extended Release Oral Capsule,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+199903,hydrochlorothiazide 12.5 MG Oral Capsule,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1999031,24 HR metoprolol succinate 100 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1999033,24 HR metoprolol succinate 200 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1999035,24 HR metoprolol succinate 25 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1999037,24 HR metoprolol succinate 50 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+199919,valsartan 160 MG Oral Capsule,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+200031,carvedilol 6.25 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+200032,carvedilol 12.5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+200033,carvedilol 25 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+200094,irbesartan 75 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+200095,irbesartan 150 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+200096,irbesartan 300 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+200284,hydrochlorothiazide 12.5 MG / valsartan 80 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+200285,hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+200801,furosemide 20 MG Oral Tablet [Lasix],SBD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+200809,furosemide 40 MG Oral Tablet [Lasix],SBD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+200817,spironolactone 50 MG Oral Tablet [Aldactone],SBD,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+200820,spironolactone 25 MG Oral Tablet [Aldactone],SBD,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+200825,spironolactone 100 MG Oral Tablet [Aldactone],SBD,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+201322,atenolol 100 MG Oral Tablet [Tenormin],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+201337,nadolol 40 MG Oral Tablet [Corgard],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+204501,hydrochlorothiazide 25 MG / reserpine 0.125 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+2047711,amlodipine / celecoxib Oral Product,SCDG,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+2047712,amlodipine / celecoxib Pill,SCDG,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+2047713,amlodipine / celecoxib Oral Tablet,SCDF,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+2047715,amlodipine 2.5 MG / celecoxib 200 MG Oral Tablet,SCD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+2047716,amlodipine 5 MG / celecoxib 200 MG Oral Tablet,SCD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+2047717,amlodipine 10 MG / celecoxib 200 MG Oral Tablet,SCD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+2047763,metoprolol Extended Release Oral Capsule [Kapspargo],SBDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2047764,Kapspargo Oral Product,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2047765,Kapspargo Pill,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2047766,24 HR metoprolol succinate 100 MG Extended Release Oral Capsule [Kapspargo],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2047769,24 HR metoprolol succinate 200 MG Extended Release Oral Capsule [Kapspargo],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2047772,24 HR metoprolol succinate 25 MG Extended Release Oral Capsule [Kapspargo],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2047775,24 HR metoprolol succinate 50 MG Extended Release Oral Capsule [Kapspargo],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2049590,amlodipine / celecoxib Oral Tablet [Consensi],SBDF,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+2049591,Consensi Oral Product,SBDG,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+2049592,Consensi Pill,SBDG,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+2049593,amlodipine 2.5 MG / celecoxib 200 MG Oral Tablet [Consensi],SBD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+205304,telmisartan 40 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+205305,telmisartan 80 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+205326,lisinopril 30 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+205488,bumetanide 0.5 MG Oral Tablet [Bumex],SBD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+205489,bumetanide 1 MG Oral Tablet [Bumex],SBD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+205490,bumetanide 2 MG Oral Tablet [Bumex],SBD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+205544,doxazosin 8 MG Oral Tablet [Cardura],SBD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2057150,telmisartan Oral Liquid Product,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2057151,telmisartan Oral Solution,SCDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2057152,telmisartan 10 MG/ML Oral Solution,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2057155,telmisartan Oral Solution [Semintra],SBDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2057156,Semintra Oral Liquid Product,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2057157,Semintra Oral Product,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2057158,telmisartan 10 MG/ML Oral Solution [Semintra],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+205732,furosemide 80 MG Oral Tablet [Lasix],SBD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+206765,lisinopril 10 MG Oral Tablet [Prinivil],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+206766,lisinopril 20 MG Oral Tablet [Prinivil],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+206771,lisinopril 40 MG Oral Tablet [Zestril],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+206961,nadolol 20 MG Oral Tablet [Corgard],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+207772,Osmotic 24 HR nifedipine 30 MG Extended Release Oral Tablet [Procardia],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+207773,Osmotic 24 HR nifedipine 60 MG Extended Release Oral Tablet [Procardia],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+207774,Osmotic 24 HR nifedipine 90 MG Extended Release Oral Tablet [Procardia],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+207891,quinapril 5 MG Oral Tablet [Accupril],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+207892,quinapril 10 MG Oral Tablet [Accupril],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+207893,quinapril 20 MG Oral Tablet [Accupril],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+207895,quinapril 40 MG Oral Tablet [Accupril],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+208112,hydrochlorothiazide 25 MG / spironolactone 25 MG Oral Tablet [Aldactazide],SBD,2,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+208124,hydrochlorothiazide 25 MG / triamterene 37.5 MG Oral Capsule [Dyazide],SBD,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+208674,triamterene 100 MG Oral Capsule [Dyrenium],SBD,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+208675,triamterene 50 MG Oral Capsule [Dyrenium],SBD,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+208979,prazosin 1 MG Oral Capsule [Minipress],SBD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+208980,prazosin 2 MG Oral Capsule [Minipress],SBD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+208981,prazosin 5 MG Oral Capsule [Minipress],SBD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+212388,carvedilol 6.25 MG Oral Tablet [Coreg],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+212389,carvedilol 12.5 MG Oral Tablet [Coreg],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+212390,carvedilol 25 MG Oral Tablet [Coreg],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+212542,amlodipine 2.5 MG Oral Tablet [Norvasc],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+212549,amlodipine 5 MG Oral Tablet [Norvasc],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+212575,amlodipine 10 MG Oral Tablet [Norvasc],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+213431,telmisartan 40 MG Oral Tablet [Micardis],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+213432,telmisartan 80 MG Oral Tablet [Micardis],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+213439,chlorothiazide 50 MG/ML Oral Suspension [Diuril],SBD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+213482,lisinopril 30 MG Oral Tablet [Zestril],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+214081,chlorthalidone 15 MG Oral Tablet [Thalitone],SBD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+214083,chlorthalidone 25 MG Oral Tablet [Thalitone],SBD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2184118,amlodipine Oral Liquid Product,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2184119,amlodipine Oral Suspension,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2184120,amlodipine 1 MG/ML Oral Suspension,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2184123,amlodipine Oral Suspension [Katerzia],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2184124,Katerzia Oral Liquid Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2184125,Katerzia Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2184126,amlodipine 1 MG/ML Oral Suspension [Katerzia],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2266816,amlodipine 10 MG / celecoxib 200 MG Oral Tablet [Consensi],SBD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+2266818,amlodipine 5 MG / celecoxib 200 MG Oral Tablet [Consensi],SBD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+2268636,clonidine Transdermal System [Catapres],SBDF,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2268637,Catapres Topical Product,SBDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2268638,Catapres Transdermal Product,SBDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+227058,24 HR nifedipine 30 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+227059,24 HR nifedipine 60 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+237192,chlorothiazide 250 MG / reserpine 0.125 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+2377356,levamlodipine Oral Product,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2377357,levamlodipine Pill,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2377358,levamlodipine Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2377362,levamlodipine Oral Tablet [Conjupri],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2377363,Conjupri Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2377364,Conjupri Pill,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2377367,levamlodipine 2.5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2377369,levamlodipine 2.5 MG Oral Tablet [Conjupri],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2377371,levamlodipine 5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2377373,levamlodipine 5 MG Oral Tablet [Conjupri],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+246399,furosemide 20 MG / spironolactone 50 MG Oral Capsule,SCD,2,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+248657,furosemide 50 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+248708,12 HR nifedipine 10 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+249620,12 HR nifedipine 20 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+250044,torsemide 2.5 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+250206,12 HR nifedipine 10 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+250376,hydroflumethiazide 25 MG / spironolactone 25 MG Oral Tablet,SCD,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+250377,hydroflumethiazide 50 MG / spironolactone 50 MG Oral Tablet,SCD,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+250384,24 HR nifedipine 40 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+250543,bendroflumethiazide 2.5 MG / timolol 10 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+250660,bumetanide 0.2 MG/ML Oral Solution,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+250708,furosemide 40 MG / triamterene 50 MG Oral Tablet,SCD,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+251308,furosemide 1 MG/ML Oral Solution,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+251856,ramipril 2.5 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+251857,ramipril 5 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2566849,benazepril / spironolactone Oral Product,SCDG,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2566850,benazepril / spironolactone Pill,SCDG,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2566851,benazepril / spironolactone Chewable Product,SCDG,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2566852,benazepril / spironolactone Chewable Tablet,SCDF,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2566853,benazepril hydrochloride 2.5 MG / spironolactone 20 MG Chewable Tablet,SCD,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2566856,Cardalis Oral Product,SBDG,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2566857,Cardalis Pill,SBDG,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2566858,Cardalis Chewable Product,SBDG,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2566859,benazepril / spironolactone Chewable Tablet [Cardalis],SBDF,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2566860,benazepril hydrochloride 2.5 MG / spironolactone 20 MG Chewable Tablet [Cardalis],SBD,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2566862,benazepril hydrochloride 5 MG / spironolactone 40 MG Chewable Tablet,SCD,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2566864,benazepril hydrochloride 5 MG / spironolactone 40 MG Chewable Tablet [Cardalis],SBD,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2566866,benazepril hydrochloride 10 MG / spironolactone 80 MG Chewable Tablet,SCD,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2566868,benazepril hydrochloride 10 MG / spironolactone 80 MG Chewable Tablet [Cardalis],SBD,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2589874,Soaanz Oral Product,SBDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2589875,Soaanz Pill,SBDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2589876,torsemide Oral Tablet [Soaanz],SBDF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2589877,torsemide 20 MG Oral Tablet [Soaanz],SBD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2589881,torsemide 40 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2589883,torsemide 40 MG Oral Tablet [Soaanz],SBD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2589885,torsemide 60 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2589887,torsemide 60 MG Oral Tablet [Soaanz],SBD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2599172,amlodipine Oral Solution,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2599173,amlodipine 1 MG/ML Oral Solution,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2599176,Norliqva Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2599177,Norliqva Oral Liquid Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2599178,amlodipine Oral Solution [Norliqva],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2599179,amlodipine 1 MG/ML Oral Solution [Norliqva],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+260333,ramipril 10 MG Oral Capsule [Altace],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+260376,terazosin 10 MG Oral Capsule,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+261962,ramipril 10 MG Oral Capsule,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2645310,hydrochlorothiazide / labetalol hydrochloride Oral Tablet,SCDFP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2645329,bendroflumethiazide / propranolol hydrochloride Oral Capsule,SCDFP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2645399,verapamil hydrochloride Extended Release Oral Tablet,SCDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2645407,propranolol hydrochloride Extended Release Oral Capsule,SCDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2645428,losartan potassium Oral Tablet,SCDFP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2645453,hydrochlorothiazide / metoprolol tartrate Extended Release Oral Tablet,SCDFP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2645498,chlorthalidone / clonidine hydrochloride Oral Tablet,SCDFP,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+2645556,amiloride hydrochloride Oral Tablet,SCDFP,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+2645651,benazepril hydrochloride Oral Tablet,SCDFP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2645779,enalapril maleate Oral Solution,SCDFP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2645863,candesartan cilexetil / hydrochlorothiazide Oral Tablet,SCDFP,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+2645878,diltiazem hydrochloride Extended Release Oral Tablet,SCDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2645919,amlodipine / benazepril hydrochloride Oral Capsule,SCDFP,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+2645933,amiloride hydrochloride / atenolol / hydrochlorothiazide Oral Capsule,SCDFP,3,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1
+2645942,clonidine hydrochloride Extended Release Oral Capsule,SCDFP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2645985,benazepril hydrochloride / hydrochlorothiazide Oral Tablet,SCDFP,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+2646044,olmesartan medoxomil Oral Tablet,SCDFP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2646057,fosinopril sodium Oral Tablet,SCDFP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2646066,propranolol hydrochloride Oral Tablet,SCDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2646139,bendroflumethiazide / propranolol hydrochloride Extended Release Oral Capsule,SCDFP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2646152,metoprolol tartrate Oral Tablet,SCDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2646171,amiloride hydrochloride / hydrochlorothiazide / timolol maleate Oral Tablet,SCDFP,3,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1
+2646215,penbutolol sulfate Oral Tablet,SCDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2646538,carvedilol phosphate Extended Release Oral Capsule,SCDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2646561,clonidine hydrochloride Extended Release Oral Tablet,SCDFP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2646569,betaxolol hydrochloride Oral Tablet,SCDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2646622,amiloride hydrochloride Oral Solution,SCDFP,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+2646644,verapamil hydrochloride Oral Tablet,SCDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2646682,diltiazem hydrochloride Oral Capsule,SCDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2646724,perindopril erbumine Oral Tablet,SCDFP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2647000,propranolol hydrochloride Oral Capsule,SCDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2647054,azilsartan medoxomil Oral Tablet,SCDFP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2647061,hydrochlorothiazide / propranolol hydrochloride Oral Tablet,SCDFP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2647123,amlodipine / perindopril arginine Oral Tablet,SCDFP,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+2647304,hydrochlorothiazide / olmesartan medoxomil Oral Tablet,SCDFP,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+2647357,benazepril hydrochloride / spironolactone Chewable Tablet,SCDFP,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2647487,verapamil hydrochloride Extended Release Oral Capsule,SCDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2647546,moexipril hydrochloride Oral Tablet,SCDFP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2647670,hydrochlorothiazide / metoprolol tartrate Oral Tablet,SCDFP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2647723,ethacrynic acid Oral Tablet,SCDFP,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2647724,clonidine hydrochloride Oral Tablet,SCDFP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2647737,labetalol hydrochloride Oral Tablet,SCDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2647833,amiloride hydrochloride / furosemide Oral Tablet,SCDFP,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+2647857,hydrochlorothiazide / moexipril hydrochloride Oral Tablet,SCDFP,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+2647927,trandolapril / verapamil hydrochloride Extended Release Oral Capsule,SCDFP,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+2647990,indapamide / perindopril erbumine Oral Tablet,SCDFP,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+2648074,propranolol hydrochloride Oral Solution,SCDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2648082,bisoprolol fumarate Oral Tablet,SCDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2648112,verapamil hydrochloride Oral Capsule,SCDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2648125,candesartan cilexetil Oral Tablet,SCDFP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2648147,diltiazem hydrochloride Oral Tablet,SCDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2648326,amlodipine / olmesartan medoxomil Oral Tablet,SCDFP,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+2648343,amiloride hydrochloride / hydrochlorothiazide Oral Tablet,SCDFP,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+2648347,metoprolol succinate Extended Release Oral Capsule,SCDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2648483,diltiazem malate Oral Tablet,SCDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2648533,amiloride hydrochloride / bumetanide Oral Tablet,SCDFP,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+2648551,verapamil hydrochloride Oral Solution,SCDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2648552,hydralazine hydrochloride / hydrochlorothiazide / reserpine Oral Tablet,SCDFP,3,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1
+2648562,nicardipine hydrochloride Extended Release Oral Capsule,SCDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2648592,hydrochlorothiazide / metoprolol succinate Extended Release Oral Tablet,SCDFP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2648608,bisoprolol fumarate / hydrochlorothiazide Oral Tablet,SCDFP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2648610,diltiazem hydrochloride Extended Release Oral Capsule,SCDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2648648,metoprolol succinate Extended Release Oral Tablet,SCDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2648650,amlodipine / hydrochlorothiazide / olmesartan medoxomil Oral Tablet,SCDFP,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+2648731,hydralazine hydrochloride / hydrochlorothiazide Oral Capsule,SCDFP,2,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1
+2648769,enalapril maleate Oral Tablet,SCDFP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2649054,hydrochlorothiazide / losartan potassium Oral Tablet,SCDFP,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+2649164,hydralazine hydrochloride Oral Tablet,SCDFP,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2649178,fosinopril sodium / hydrochlorothiazide Oral Tablet,SCDFP,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+2649214,nicardipine hydrochloride Oral Capsule,SCDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2649217,azilsartan medoxomil / chlorthalidone Oral Tablet,SCDFP,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+2649218,trandolapril / verapamil hydrochloride Extended Release Oral Tablet,SCDFP,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+2649280,amiloride hydrochloride / cyclopenthiazide Oral Tablet,SCDFP,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+2649463,enalapril maleate / hydrochlorothiazide Oral Tablet,SCDFP,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+2654268,propranolol hydrochloride Extended Release Oral Capsule [Inderal],SBDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2654334,labetalol hydrochloride Oral Tablet [Trandate],SBDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2654748,propranolol hydrochloride Oral Solution [Hemangeol],SBDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2654904,diltiazem hydrochloride Extended Release Oral Capsule [Taztia],SBDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2654905,verapamil hydrochloride Extended Release Oral Tablet [Calan],SBDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2654906,diltiazem hydrochloride Extended Release Oral Capsule [Cardizem],SBDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2654942,metoprolol succinate Extended Release Oral Capsule [Kapspargo],SBDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2654956,benazepril hydrochloride / hydrochlorothiazide Oral Tablet [Lotensin HCT],SBDFP,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+2655234,amlodipine / perindopril arginine Oral Tablet [Prestalia],SBDFP,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+2655442,olmesartan medoxomil Oral Tablet [Benicar],SBDFP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2655487,amlodipine / benazepril hydrochloride Oral Capsule [Lotrel],SBDFP,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+2655519,diltiazem hydrochloride Extended Release Oral Capsule [Tiadylt],SBDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2655599,diltiazem hydrochloride Oral Tablet [Cardizem],SBDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2655646,enalapril maleate Oral Tablet [Vasotec],SBDFP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2655693,diltiazem hydrochloride Extended Release Oral Capsule [Tiazac],SBDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2655696,clonidine hydrochloride Extended Release Oral Tablet [Kapvay],SBDFP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2656065,metoprolol succinate Extended Release Oral Tablet [Toprol],SBDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2656124,amlodipine / olmesartan medoxomil Oral Tablet [Azor],SBDFP,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+2656127,bisoprolol fumarate / hydrochlorothiazide Oral Tablet [Ziac],SBDFP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2656155,diltiazem hydrochloride Extended Release Oral Tablet [Cardizem],SBDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2656159,diltiazem hydrochloride Extended Release Oral Tablet [Matzim],SBDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2656181,carvedilol phosphate Extended Release Oral Capsule [Coreg],SBDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2656204,hydrochlorothiazide / metoprolol tartrate Oral Tablet [Lopressor HCT],SBDFP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2656240,losartan potassium Oral Tablet [Cozaar],SBDFP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2656264,benazepril hydrochloride / spironolactone Chewable Tablet [Cardalis],SBDFP,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2656365,benazepril hydrochloride Oral Tablet [Lotensin],SBDFP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2656718,perindopril erbumine Oral Tablet [Aceon],SBDFP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2656912,candesartan cilexetil Oral Tablet [Atacand],SBDFP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2657019,enalapril maleate / hydrochlorothiazide Oral Tablet [Vaseretic],SBDFP,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+2657102,metoprolol tartrate Oral Tablet [Lopressor],SBDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2657318,hydrochlorothiazide / olmesartan medoxomil Oral Tablet [Benicar HCT],SBDFP,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+2657392,diltiazem hydrochloride Extended Release Oral Capsule [Dilt],SBDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2657393,verapamil hydrochloride Extended Release Oral Tablet [Isoptin],SBDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2657493,propranolol hydrochloride Extended Release Oral Capsule [InnoPran],SBDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2657992,diltiazem hydrochloride Extended Release Oral Capsule [Cartia],SBDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2657998,diltiazem hydrochloride Extended Release Oral Capsule [Diltzac],SBDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2658502,azilsartan medoxomil Oral Tablet [Edarbi],SBDFP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2658550,hydrochlorothiazide / losartan potassium Oral Tablet [Hyzaar],SBDFP,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+2658575,verapamil hydrochloride Extended Release Oral Capsule [Verelan],SBDFP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2658646,candesartan cilexetil / hydrochlorothiazide Oral Tablet [Atacand HCT],SBDFP,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+2658663,amlodipine / hydrochlorothiazide / olmesartan medoxomil Oral Tablet [Tribenzor],SBDFP,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+2658673,azilsartan medoxomil / chlorthalidone Oral Tablet [Edarbyclor],SBDFP,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+2658821,enalapril maleate Oral Solution [Epaned],SBDFP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2658998,ethacrynic acid Oral Tablet [Edecrin],SBDFP,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2659103,fosinopril sodium / hydrochlorothiazide Pill,SCDGP,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+2659110,trandolapril / verapamil hydrochloride Pill,SCDGP,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+2659117,metoprolol succinate Pill,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2659120,benazepril hydrochloride / spironolactone Pill,SCDGP,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2659127,verapamil hydrochloride Pill,SCDGP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2659131,diltiazem hydrochloride Pill,SCDGP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2659176,hydrochlorothiazide / moexipril hydrochloride Oral Product,SCDGP,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+2659182,nicardipine hydrochloride Pill,SCDGP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2659200,hydrochlorothiazide / labetalol hydrochloride Pill,SCDGP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2659263,bisoprolol fumarate Oral Product,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2659265,labetalol hydrochloride Oral Product,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2659275,benazepril hydrochloride / spironolactone Chewable Product,SCDGP,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2659327,candesartan cilexetil / hydrochlorothiazide Oral Product,SCDGP,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+2659396,ethacrynic acid Oral Product,SCDGP,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2659402,amiloride hydrochloride Oral Product,SCDGP,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+2659409,amlodipine / hydrochlorothiazide / olmesartan medoxomil Pill,SCDGP,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+2659425,indapamide / perindopril erbumine Pill,SCDGP,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+2659438,losartan potassium Oral Product,SCDGP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2659481,amiloride hydrochloride / bumetanide Oral Product,SCDGP,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+2659535,metoprolol succinate Oral Product,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2659540,perindopril erbumine Pill,SCDGP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2659556,azilsartan medoxomil / chlorthalidone Pill,SCDGP,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+2659605,benazepril hydrochloride / hydrochlorothiazide Pill,SCDGP,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+2659613,hydralazine hydrochloride / hydrochlorothiazide / reserpine Oral Product,SCDGP,3,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1
+2659623,ethacrynic acid Pill,SCDGP,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2659740,propranolol hydrochloride Oral Liquid Product,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2659741,diltiazem hydrochloride Oral Product,SCDGP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2659867,enalapril maleate Pill,SCDGP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2659944,candesartan cilexetil Oral Product,SCDGP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2659951,amlodipine / perindopril arginine Pill,SCDGP,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+2660032,perindopril erbumine Oral Product,SCDGP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2660099,amlodipine / olmesartan medoxomil Oral Product,SCDGP,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+2660115,hydrochlorothiazide / labetalol hydrochloride Oral Product,SCDGP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2660145,amiloride hydrochloride / cyclopenthiazide Pill,SCDGP,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+2660238,clonidine hydrochloride Oral Product,SCDGP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2660288,hydrochlorothiazide / propranolol hydrochloride Pill,SCDGP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2660313,amlodipine / benazepril hydrochloride Oral Product,SCDGP,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+2660372,enalapril maleate / hydrochlorothiazide Oral Product,SCDGP,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+2660376,chlorthalidone / clonidine hydrochloride Oral Product,SCDGP,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+2660448,amiloride hydrochloride / cyclopenthiazide Oral Product,SCDGP,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+2660465,moexipril hydrochloride Oral Product,SCDGP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2660469,amiloride hydrochloride / furosemide Oral Product,SCDGP,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+2660536,bendroflumethiazide / propranolol hydrochloride Pill,SCDGP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2660543,benazepril hydrochloride Oral Product,SCDGP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2660578,enalapril maleate / hydrochlorothiazide Pill,SCDGP,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+2660623,clonidine hydrochloride Pill,SCDGP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2660648,moexipril hydrochloride Pill,SCDGP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2660667,bendroflumethiazide / propranolol hydrochloride Oral Product,SCDGP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2660697,amiloride hydrochloride / furosemide Pill,SCDGP,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+2660721,hydralazine hydrochloride / hydrochlorothiazide Oral Product,SCDGP,2,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1
+2660825,olmesartan medoxomil Pill,SCDGP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2660868,hydralazine hydrochloride / hydrochlorothiazide / reserpine Pill,SCDGP,3,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1
+2660886,enalapril maleate Oral Liquid Product,SCDGP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2660916,amiloride hydrochloride / hydrochlorothiazide / timolol maleate Pill,SCDGP,3,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1
+2660924,trandolapril / verapamil hydrochloride Oral Product,SCDGP,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+2660945,hydrochlorothiazide / olmesartan medoxomil Oral Product,SCDGP,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+2660958,verapamil hydrochloride Oral Product,SCDGP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2660975,hydrochlorothiazide / moexipril hydrochloride Pill,SCDGP,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+2660994,hydrochlorothiazide / olmesartan medoxomil Pill,SCDGP,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+2661017,carvedilol phosphate Oral Product,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2661091,hydrochlorothiazide / metoprolol succinate Pill,SCDGP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2661112,hydrochlorothiazide / losartan potassium Oral Product,SCDGP,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+2661179,amiloride hydrochloride Oral Liquid Product,SCDGP,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+2661196,hydrochlorothiazide / metoprolol succinate Oral Product,SCDGP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2661227,metoprolol tartrate Oral Product,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2661251,hydrochlorothiazide / metoprolol tartrate Oral Product,SCDGP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2661336,amiloride hydrochloride / atenolol / hydrochlorothiazide Oral Product,SCDGP,3,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1
+2661386,amlodipine / olmesartan medoxomil Pill,SCDGP,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+2661393,benazepril hydrochloride / hydrochlorothiazide Oral Product,SCDGP,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+2661436,candesartan cilexetil Pill,SCDGP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2661470,hydrochlorothiazide / propranolol hydrochloride Oral Product,SCDGP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2661536,fosinopril sodium / hydrochlorothiazide Oral Product,SCDGP,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+2661654,amiloride hydrochloride / hydrochlorothiazide / timolol maleate Oral Product,SCDGP,3,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1
+2661705,hydralazine hydrochloride / hydrochlorothiazide Pill,SCDGP,2,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1
+2661893,enalapril maleate Oral Product,SCDGP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2661917,hydralazine hydrochloride Oral Product,SCDGP,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2661965,betaxolol hydrochloride Oral Product,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2662025,losartan potassium Pill,SCDGP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2662085,diltiazem malate Pill,SCDGP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2662092,nicardipine hydrochloride Oral Product,SCDGP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2662096,hydralazine hydrochloride Pill,SCDGP,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2662098,diltiazem malate Oral Product,SCDGP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2662216,azilsartan medoxomil Pill,SCDGP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2662241,fosinopril sodium Oral Product,SCDGP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2662273,penbutolol sulfate Oral Product,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2662343,labetalol hydrochloride Pill,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2662374,metoprolol tartrate Pill,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2662461,amiloride hydrochloride Pill,SCDGP,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+2662562,amiloride hydrochloride / atenolol / hydrochlorothiazide Pill,SCDGP,3,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1
+2662590,amiloride hydrochloride / hydrochlorothiazide Pill,SCDGP,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+2662617,hydrochlorothiazide / metoprolol tartrate Pill,SCDGP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2662628,penbutolol sulfate Pill,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2662778,bisoprolol fumarate / hydrochlorothiazide Oral Product,SCDGP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2662823,bisoprolol fumarate / hydrochlorothiazide Pill,SCDGP,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+2662857,benazepril hydrochloride Pill,SCDGP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2662871,azilsartan medoxomil / chlorthalidone Oral Product,SCDGP,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+2662911,indapamide / perindopril erbumine Oral Product,SCDGP,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+2663040,amlodipine / perindopril arginine Oral Product,SCDGP,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+2663049,chlorthalidone / clonidine hydrochloride Pill,SCDGP,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+2663083,amlodipine / benazepril hydrochloride Pill,SCDGP,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+2663319,verapamil hydrochloride Oral Liquid Product,SCDGP,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2663366,olmesartan medoxomil Oral Product,SCDGP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2663381,amiloride hydrochloride / bumetanide Pill,SCDGP,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+2663399,bisoprolol fumarate Pill,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2663522,fosinopril sodium Pill,SCDGP,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2663523,azilsartan medoxomil Oral Product,SCDGP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2663528,benazepril hydrochloride / spironolactone Oral Product,SCDGP,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2663535,amlodipine / hydrochlorothiazide / olmesartan medoxomil Oral Product,SCDGP,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+2663559,amiloride hydrochloride / hydrochlorothiazide Oral Product,SCDGP,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+2663563,propranolol hydrochloride Oral Product,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2663652,carvedilol phosphate Pill,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2663661,hydrochlorothiazide / losartan potassium Pill,SCDGP,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+2663669,candesartan cilexetil / hydrochlorothiazide Pill,SCDGP,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+2663688,propranolol hydrochloride Pill,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2663689,betaxolol hydrochloride Pill,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2679061,aprocitentan Oral Product,SCDG,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2679062,aprocitentan Pill,SCDG,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2679063,aprocitentan Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2679064,aprocitentan 12.5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2679067,Tryvio Oral Product,SBDG,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2679068,Tryvio Pill,SBDG,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2679069,aprocitentan Oral Tablet [Tryvio],SBDF,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2679070,aprocitentan 12.5 MG Oral Tablet [Tryvio],SBD,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2682553,torsemide Oral Liquid Product,SCDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2682554,torsemide Oral Solution,SCDF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2682555,torsemide 2 MG/ML Oral Solution,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2682558,Upcard Oral Product,SBDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2682559,Upcard Oral Liquid Product,SBDG,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2682560,torsemide Oral Solution [Upcard],SBDF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2682561,torsemide 2 MG/ML Oral Solution [Upcard],SBD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2689131,terazosin Oral Liquid Product,SCDG,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2689132,terazosin Oral Solution,SCDF,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2689133,terazosin 1 MG/ML Oral Solution,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2689136,Tezruly Oral Product,SBDG,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2689137,Tezruly Oral Liquid Product,SBDG,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2689138,terazosin Oral Solution [Tezruly],SBDF,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2689139,terazosin 1 MG/ML Oral Solution [Tezruly],SBD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2690725,clonidine hydrochloride Oral Liquid Product,SCDGP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2690726,clonidine hydrochloride Extended Release Suspension,SCDFP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2690727,24 HR clonidine hydrochloride 0.1 MG/ML Extended Release Suspension,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2690731,Onyda Oral Product,SBDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2690732,Onyda Oral Liquid Product,SBDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2690733,clonidine Extended Release Suspension [Onyda],SBDF,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2690734,clonidine hydrochloride Extended Release Suspension [Onyda],SBDFP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2690735,24 HR clonidine hydrochloride 0.1 MG/ML Extended Release Suspension [Onyda],SBD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2704010,hydrochlorothiazide Oral Powder Product,SCDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2704011,hydrochlorothiazide Powder for Oral Suspension,SCDF,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2704012,hydrochlorothiazide 800 MG Powder for Oral Suspension,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2704015,Inzirqo Oral Product,SBDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2704016,Inzirqo Oral Powder Product,SBDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2704017,hydrochlorothiazide Powder for Oral Suspension [Inzirqo],SBDF,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2704018,hydrochlorothiazide 800 MG Powder for Oral Suspension [Inzirqo],SBD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2709035,losartan Oral Liquid Product,SCDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2709036,losartan Oral Suspension,SCDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2709037,losartan potassium Oral Liquid Product,SCDGP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2709038,losartan potassium Oral Suspension,SCDFP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2709039,losartan potassium 10 MG/ML Oral Suspension,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2709042,Arbli Oral Product,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2709043,Arbli Oral Liquid Product,SBDG,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2709044,losartan Oral Suspension [Arbli],SBDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2709045,losartan potassium Oral Suspension [Arbli],SBDFP,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2709046,losartan potassium 10 MG/ML Oral Suspension [Arbli],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2709676,Hemiclor Oral Product,SBDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2709677,Hemiclor Pill,SBDG,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2709678,chlorthalidone Oral Tablet [Hemiclor],SBDF,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2709679,chlorthalidone 12.5 MG Oral Tablet [Hemiclor],SBD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2712143,metoprolol Oral Liquid Product,SCDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2712144,metoprolol Oral Solution,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2712145,metoprolol tartrate Oral Liquid Product,SCDGP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2712146,metoprolol tartrate Oral Solution,SCDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2712147,metoprolol tartrate 10 MG/ML Oral Solution,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2712149,Lopressor Oral Liquid Product,SBDG,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2712150,metoprolol Oral Solution [Lopressor],SBDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2712151,metoprolol tartrate Oral Solution [Lopressor],SBDFP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2712152,metoprolol tartrate 10 MG/ML Oral Solution [Lopressor],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2723025,metoprolol tartrate 12.5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2723027,metoprolol tartrate 12.5 MG Oral Tablet [Lopressor],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2725552,clonidine Oral Solution,SCDF,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2725553,clonidine hydrochloride Oral Solution,SCDFP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2725554,clonidine hydrochloride 0.02 MG/ML Oral Solution,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2725557,Javadin Oral Product,SBDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2725558,Javadin Oral Liquid Product,SBDG,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2725559,clonidine Oral Solution [Javadin],SBDF,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2725560,clonidine hydrochloride Oral Solution [Javadin],SBDFP,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2725561,clonidine hydrochloride 0.02 MG/ML Oral Solution [Javadin],SBD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2726056,amlodipine Oral Powder Product,SCDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2726057,amlodipine Powder for Oral Solution,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2726058,amlodipine 2.5 MG Powder for Oral Solution,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2726061,Sdamlo Oral Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2726062,Sdamlo Oral Powder Product,SBDG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2726063,amlodipine Powder for Oral Solution [Sdamlo],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2726064,amlodipine 2.5 MG Powder for Oral Solution [Sdamlo],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2726065,amlodipine 5 MG Powder for Oral Solution,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2726067,amlodipine 5 MG Powder for Oral Solution [Sdamlo],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2726068,amlodipine 10 MG Powder for Oral Solution,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2726070,amlodipine 10 MG Powder for Oral Solution [Sdamlo],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2727322,ramipril Oral Liquid Product,SCDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2727323,ramipril Oral Solution,SCDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2727324,ramipril 1 MG/ML Oral Solution,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2727327,Vostally Oral Product,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2727328,Vostally Oral Liquid Product,SBDG,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2727329,ramipril Oral Solution [Vostally],SBDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2727330,ramipril 1 MG/ML Oral Solution [Vostally],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2727449,amlodipine / indapamide / telmisartan Oral Product,SCDG,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+2727450,amlodipine / indapamide / telmisartan Pill,SCDG,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+2727451,amlodipine / indapamide / telmisartan Oral Tablet,SCDF,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+2727452,amlodipine 1.25 MG / indapamide 0.625 MG / telmisartan 10 MG Oral Tablet,SCD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+2727455,Widaplik Oral Product,SBDG,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+2727456,Widaplik Pill,SBDG,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+2727457,amlodipine / indapamide / telmisartan Oral Tablet [Widaplik],SBDF,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+2727458,amlodipine 1.25 MG / indapamide 0.625 MG / telmisartan 10 MG Oral Tablet [Widaplik],SBD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+2727460,amlodipine 2.5 MG / indapamide 1.25 MG / telmisartan 20 MG Oral Tablet,SCD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+2727462,amlodipine 2.5 MG / indapamide 1.25 MG / telmisartan 20 MG Oral Tablet [Widaplik],SBD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+2727463,amlodipine 5 MG / indapamide 2.5 MG / telmisartan 40 MG Oral Tablet,SCD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+2727465,amlodipine 5 MG / indapamide 2.5 MG / telmisartan 40 MG Oral Tablet [Widaplik],SBD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+2740803,clonidine hydrochloride 0.05 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+282755,telmisartan 20 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+283316,hydrochlorothiazide 12.5 MG / telmisartan 40 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+283317,hydrochlorothiazide 12.5 MG / telmisartan 80 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+284531,telmisartan 20 MG Oral Tablet [Micardis],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+308135,amlodipine 10 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+308136,amlodipine 2.5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+308614,bendroflumethiazide 2.5 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+308962,captopril 100 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+308963,captopril 12.5 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+308964,captopril 50 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+309198,chlorothiazide 50 MG/ML Oral Suspension,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+310139,eprosartan 400 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+310140,eprosartan 600 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+310429,furosemide 20 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+310662,guanadrel 10 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+310664,guanethidine 10 MG / hydrochlorothiazide 25 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+310665,guanethidine 10 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+310792,hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+310793,hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+310796,hydrochlorothiazide 12.5 MG / quinapril 10 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+310797,hydrochlorothiazide 12.5 MG / quinapril 20 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+310798,hydrochlorothiazide 25 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+310809,hydrochlorothiazide 25 MG / quinapril 20 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+310811,hydrochlorothiazide 25 MG / timolol 10 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+310812,hydrochlorothiazide 25 MG / triamterene 37.5 MG Oral Tablet,SCD,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+310818,hydrochlorothiazide 50 MG / triamterene 75 MG Oral Tablet,SCD,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+311353,lisinopril 2.5 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+311354,lisinopril 5 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+311671,metolazone 5 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+311983,24 HR nisoldipine 10 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+311984,24 HR nisoldipine 20 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+311985,24 HR nisoldipine 30 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+312481,polythiazide 0.5 MG / prazosin 1 MG Oral Capsule,SCD,2,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1
+312482,polythiazide 0.5 MG / prazosin 2 MG Oral Capsule,SCD,2,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1
+312483,polythiazide 0.5 MG / prazosin 5 MG Oral Capsule,SCD,2,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1
+312593,prazosin 1 MG Oral Capsule,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+312594,prazosin 2 MG Oral Capsule,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+312748,quinapril 10 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+312749,quinapril 20 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+312750,quinapril 5 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+313096,spironolactone 25 MG Oral Tablet,SCD,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+313214,terazosin 10 MG Oral Tablet,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+313215,terazosin 1 MG Oral Capsule,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+313216,terazosin 1 MG Oral Tablet,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+313217,terazosin 2 MG Oral Capsule,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+313218,terazosin 2 MG Oral Tablet,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+313219,terazosin 5 MG Oral Capsule,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+313220,terazosin 5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+313988,furosemide 40 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+314029,hydrochlorothiazide 25 MG / triamterene 50 MG Oral Tablet,SCD,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+314076,lisinopril 10 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+314077,lisinopril 20 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+314203,quinapril 40 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+317173,captopril 25 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+349199,valsartan 80 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+349200,valsartan 320 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+349201,valsartan 160 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+349353,hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+349373,olmesartan medoxomil 5 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+349401,olmesartan medoxomil 20 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+349405,olmesartan medoxomil 40 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+349483,valsartan 40 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+351256,eplerenone 25 MG Oral Tablet,SCD,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+351257,eplerenone 50 MG Oral Tablet,SCD,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+351258,eplerenone 100 MG Oral Tablet,SCD,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+351292,eprosartan 600 MG / hydrochlorothiazide 12.5 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+351293,eprosartan 600 MG / hydrochlorothiazide 25 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+351761,valsartan 80 MG Oral Tablet [Diovan],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+351762,valsartan 160 MG Oral Tablet [Diovan],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+352001,valsartan 320 MG Oral Tablet [Diovan],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+352199,olmesartan medoxomil 5 MG Oral Tablet [Benicar],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+352200,olmesartan medoxomil 20 MG Oral Tablet [Benicar],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+352201,olmesartan medoxomil 40 MG Oral Tablet [Benicar],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+352274,valsartan 40 MG Oral Tablet [Diovan],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+360344,24 HR nisoldipine 40 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+366263,triamterene Oral Capsule [Dyrenium],SBDF,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+366289,hydrochlorothiazide / triamterene Oral Capsule [Dyazide],SBDF,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+366692,prazosin Oral Capsule [Minipress],SBDF,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+367127,diltiazem Extended Release Oral Capsule [Tiazac],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+367136,verapamil Extended Release Oral Capsule [Verelan],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+367659,atenolol Oral Tablet [Tenormin],SBDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+368070,valsartan Oral Tablet [Diovan],SBDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+368071,spironolactone Oral Tablet [Aldactone],SBDF,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+368080,benazepril Oral Tablet [Lotensin],SBDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+368146,telmisartan Oral Tablet [Micardis],SBDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+368233,perindopril Oral Tablet [Aceon],SBDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+368240,losartan Oral Tablet [Cozaar],SBDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+368248,lisinopril Oral Tablet [Zestril],SBDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+368268,candesartan Oral Tablet [Atacand],SBDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+368359,amlodipine Oral Tablet [Norvasc],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+368387,carvedilol Oral Tablet [Coreg],SBDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+368487,furosemide Oral Tablet [Lasix],SBDF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+368577,labetalol Oral Tablet [Trandate],SBDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+368711,chlorthalidone Oral Tablet [Thalitone],SBDF,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+368757,metoprolol Oral Tablet [Lopressor],SBDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+368865,lisinopril Oral Tablet [Prinivil],SBDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+369261,diltiazem Oral Tablet [Cardizem],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+369275,hydrochlorothiazide / triamterene Oral Tablet [Maxzide],SBDF,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+369279,hydrochlorothiazide / spironolactone Oral Tablet [Aldactazide],SBDF,2,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+369331,quinapril Oral Tablet [Accupril],SBDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+369375,bumetanide Oral Tablet [Bumex],SBDF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+369419,olmesartan Oral Tablet [Benicar],SBDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+369505,enalapril Oral Tablet [Vasotec],SBDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+370027,nisoldipine Extended Release Oral Tablet [Sular],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+370505,acebutolol Oral Capsule,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+370564,amiloride Oral Tablet,SCDF,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+370573,amlodipine Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+370619,atenolol Oral Tablet,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+370620,atenolol / chlorthalidone Oral Tablet,SCDF,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+370631,hydralazine Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+370633,hydralazine / hydrochlorothiazide Oral Capsule,SCDF,2,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1
+370635,hydrochlorothiazide Oral Tablet,SCDF,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+370636,hydrochlorothiazide Oral Capsule,SCDF,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+370638,amiloride / hydrochlorothiazide Oral Tablet,SCDF,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+370639,hydrochlorothiazide / spironolactone Oral Tablet,SCDF,2,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+370640,hydrochlorothiazide / triamterene Oral Capsule,SCDF,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+370682,indapamide Oral Tablet,SCDF,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+370704,irbesartan Oral Tablet,SCDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+370705,hydrochlorothiazide / irbesartan Oral Tablet,SCDF,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+370723,isradipine Extended Release Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+370724,isradipine Oral Capsule,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+370737,acebutolol Oral Tablet,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+370738,acebutolol / hydrochlorothiazide Oral Tablet,SCDF,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+370847,amiloride / furosemide Oral Tablet,SCDF,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+370849,amiloride Oral Solution,SCDF,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+370850,amiloride / bumetanide Oral Tablet,SCDF,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+370851,amiloride / cyclopenthiazide Oral Tablet,SCDF,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+371000,benazepril / hydrochlorothiazide Oral Tablet,SCDF,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+371001,benazepril Oral Tablet,SCDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+371002,amlodipine / benazepril Oral Capsule,SCDF,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+371004,bendroflumethiazide Oral Tablet,SCDF,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+371065,betaxolol Oral Tablet,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+371103,bisoprolol / hydrochlorothiazide Oral Tablet,SCDF,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+371104,bisoprolol Oral Tablet,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+371157,bumetanide Oral Solution,SCDF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+371158,bumetanide Oral Tablet,SCDF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+371247,candesartan Oral Tablet,SCDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+371253,captopril / hydrochlorothiazide Oral Tablet,SCDF,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+371254,captopril Oral Tablet,SCDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+371296,carvedilol Oral Tablet,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+371409,chlorothiazide Oral Suspension,SCDF,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+371410,chlorothiazide Oral Tablet,SCDF,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+371472,chlorthalidone Oral Tablet,SCDF,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+371580,chlorthalidone / clonidine Oral Tablet,SCDF,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+371581,clonidine Extended Release Oral Capsule,SCDF,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+371583,clonidine Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+371706,deserpidine / methyclothiazide Oral Tablet,SCDF,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+371856,diltiazem Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+371961,doxazosin Oral Tablet,SCDF,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+372006,enalapril / hydrochlorothiazide Oral Tablet,SCDF,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+372007,enalapril Oral Tablet,SCDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+372273,fosinopril / hydrochlorothiazide Oral Tablet,SCDF,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+372274,fosinopril Oral Tablet,SCDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+372280,furosemide Oral Solution,SCDF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+372281,furosemide Oral Tablet,SCDF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+372364,guanabenz Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+372365,guanadrel Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+372366,guanethidine / hydrochlorothiazide Oral Tablet,SCDF,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+372367,guanethidine Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+372368,guanfacine Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+372468,indapamide Extended Release Oral Tablet,SCDF,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+372553,hydrochlorothiazide / labetalol Oral Tablet,SCDF,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+372554,labetalol Oral Tablet,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+372613,hydrochlorothiazide / lisinopril Oral Tablet,SCDF,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+372614,lisinopril Oral Tablet,SCDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+372650,hydrochlorothiazide / losartan Oral Tablet,SCDF,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+372651,losartan Oral Tablet,SCDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+372847,methyclothiazide Oral Tablet,SCDF,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+372852,chlorothiazide / methyldopa Oral Tablet,SCDF,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+372853,hydrochlorothiazide / methyldopa Oral Tablet,SCDF,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+372855,methyldopa Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+372888,metolazone Oral Tablet,SCDF,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+372889,hydrochlorothiazide / metoprolol Oral Tablet,SCDF,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+372890,hydrochlorothiazide / metoprolol Extended Release Oral Tablet,SCDF,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+372891,metoprolol Oral Tablet,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+372938,minoxidil Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+372945,moexipril Oral Tablet,SCDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+372946,hydrochlorothiazide / moexipril Oral Tablet,SCDF,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+372977,bendroflumethiazide / nadolol Oral Tablet,SCDF,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+372978,nadolol Oral Tablet,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+373058,nicardipine Oral Capsule,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+373059,nicardipine Extended Release Oral Capsule,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+373067,nifedipine Oral Capsule,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+373068,nifedipine Extended Release Oral Capsule,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+373069,nifedipine Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+373070,nifedipine Extended Release Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+373094,nisoldipine Extended Release Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+373255,penbutolol Oral Tablet,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+373293,perindopril Oral Tablet,SCDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+373460,pindolol Oral Tablet,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+373461,clopamide / pindolol Oral Tablet,SCDF,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+373514,polythiazide Oral Tablet,SCDF,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+373564,polythiazide / prazosin Oral Capsule,SCDF,2,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1
+373565,prazosin Oral Capsule,SCDF,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+373567,prazosin Oral Tablet,SCDF,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+373651,hydrochlorothiazide / propranolol Oral Tablet,SCDF,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+373652,propranolol Extended Release Oral Capsule,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+373653,propranolol Oral Solution,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+373654,propranolol Oral Tablet,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+373655,bendroflumethiazide / propranolol Oral Capsule,SCDF,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+373656,bendroflumethiazide / propranolol Extended Release Oral Capsule,SCDF,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+373731,quinapril Oral Tablet,SCDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+373732,hydrochlorothiazide / quinapril Oral Tablet,SCDF,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+373748,ramipril Oral Capsule,SCDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+373749,ramipril Oral Tablet,SCDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+373760,chlorothiazide / reserpine Oral Tablet,SCDF,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+373762,hydrochlorothiazide / reserpine Oral Tablet,SCDF,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+373764,methyclothiazide / reserpine Oral Tablet,SCDF,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+373944,furosemide / spironolactone Oral Capsule,SCDF,2,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+373946,spironolactone Oral Tablet,SCDF,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+373948,hydroflumethiazide / spironolactone Oral Tablet,SCDF,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+374024,telmisartan Oral Tablet,SCDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+374033,terazosin Oral Capsule,SCDF,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+374034,terazosin Oral Tablet,SCDF,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+374135,timolol Oral Tablet,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+374136,bendroflumethiazide / timolol Oral Tablet,SCDF,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+374168,torsemide Oral Tablet,SCDF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+374176,trandolapril Oral Capsule,SCDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+374177,trandolapril Oral Tablet,SCDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+374178,trandolapril / verapamil Extended Release Oral Tablet,SCDF,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+374192,hydrochlorothiazide / triamterene Oral Tablet,SCDF,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+374193,triamterene Oral Capsule,SCDF,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+374195,benzthiazide / triamterene Oral Capsule,SCDF,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+374196,furosemide / triamterene Oral Tablet,SCDF,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+374199,trichlormethiazide Oral Tablet,SCDF,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+374279,valsartan Oral Capsule,SCDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+374280,hydrochlorothiazide / valsartan Oral Tablet,SCDF,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+374289,verapamil Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+374290,verapamil Extended Release Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+374419,hydrochlorothiazide / timolol Oral Tablet,SCDF,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+374425,diltiazem Extended Release Oral Capsule,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+374612,eprosartan Oral Tablet,SCDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+374694,hydralazine / hydrochlorothiazide / reserpine Oral Tablet,SCDF,3,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1
+374934,candesartan / hydrochlorothiazide Oral Tablet,SCDF,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+375031,diltiazem Extended Release Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+375337,verapamil Extended Release Oral Capsule,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+376248,isradipine Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+376259,methyldopa Oral Capsule,SCDF,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+376315,chlorthalidone / triamterene Oral Tablet,SCDF,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+378276,valsartan Oral Tablet,SCDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+378660,metoprolol Extended Release Oral Tablet,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+378726,eplerenone Oral Tablet,SCDF,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+378735,eprosartan / hydrochlorothiazide Oral Tablet,SCDF,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+378921,hydrochlorothiazide / telmisartan Oral Tablet,SCDF,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+378991,olmesartan Oral Tablet,SCDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+379251,spironolactone Oral Suspension,SCDF,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+379252,verapamil Oral Solution,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+379256,amiloride / hydrochlorothiazide / timolol Oral Tablet,SCDF,3,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1
+379257,amiloride / atenolol / hydrochlorothiazide Oral Capsule,SCDF,3,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1
+379582,trandolapril / verapamil Extended Release Oral Capsule,SCDF,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+379722,irbesartan Oral Tablet [Avapro],SBDF,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+380864,ramipril Oral Capsule [Altace],SBDF,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+385565,atenolol / bendroflumethiazide Oral Capsule,SCDF,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+387013,nebivolol 5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+389180,felodipine 2.5 MG / ramipril 2.5 MG Oral Tablet,SCD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+389181,felodipine 5 MG / ramipril 5 MG Oral Tablet,SCD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+389185,eprosartan 300 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+391901,nifedipine 60 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+391980,nifedipine 30 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+393149,diltiazem Oral Capsule,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+393163,verapamil Oral Capsule,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+393275,atenolol 50 MG / nifedipine 20 MG Extended Release Oral Capsule,SCD,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+393276,atenolol / nifedipine Extended Release Oral Capsule,SCDF,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+393308,nebivolol Oral Tablet,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+393357,indapamide / perindopril Oral Tablet,SCDF,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+393431,doxazosin Extended Release Oral Tablet,SCDF,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+393440,felodipine / ramipril Oral Tablet,SCDF,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+393497,propranolol Oral Capsule,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+401965,ramipril 1.25 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+401968,ramipril 10 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+401971,olmesartan medoxomil 10 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+402105,eplerenone 50 MG Oral Tablet [Inspra],SBD,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+402106,eplerenone 25 MG Oral Tablet [Inspra],SBD,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+402363,eplerenone Oral Tablet [Inspra],SBDF,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+402695,24 HR felodipine 10 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+402696,24 HR felodipine 5 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+402698,24 HR felodipine 2.5 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+403853,hydrochlorothiazide 12.5 MG / olmesartan medoxomil 20 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+403854,hydrochlorothiazide 12.5 MG / olmesartan medoxomil 40 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+403855,hydrochlorothiazide 25 MG / olmesartan medoxomil 40 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+404011,amlodipine 5 MG / atorvastatin 80 MG Oral Tablet,SCD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+404013,amlodipine 10 MG / atorvastatin 80 MG Oral Tablet,SCD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+405788,amlodipine / atorvastatin Oral Tablet,SCDF,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+406041,hydrochlorothiazide / olmesartan Oral Tablet,SCDF,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+406247,diltiazem Extended Release Oral Capsule [Taztia],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+411434,trandolapril 4 MG Oral Capsule,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+411759,24 HR trandolapril 2 MG / verapamil hydrochloride 180 MG Extended Release Oral Capsule,SCD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+428539,chlorthalidone 12.5 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+429503,hydrochlorothiazide 12.5 MG Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+431610,bumetanide 0.5 MG / potassium chloride 573 MG Extended Release Oral Tablet,SCD,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+431740,bendroflumethiazide 2.5 MG / potassium chloride 630 MG Extended Release Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+431741,bendroflumethiazide 2.5 MG / potassium chloride 573 MG Extended Release Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+431751,prazosin 5 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+433844,24 HR indapamide 1.5 MG Extended Release Oral Tablet,SCD,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+437828,bendroflumethiazide / potassium chloride Extended Release Oral Tablet,SCDF,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+438106,bumetanide / potassium chloride Extended Release Oral Tablet,SCDF,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+439558,felodipine Extended Release Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+451067,prazosin Extended Release Oral Tablet,SCDF,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+477130,hydrochlorothiazide 25 MG / telmisartan 80 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+485471,hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+491097,diltiazem Extended Release Oral Capsule [Cartia],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+491279,nifedipine Extended Release Oral Tablet [Procardia],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+491323,propranolol Extended Release Oral Capsule [Inderal],SBDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+540620,diltiazem Extended Release Oral Capsule [Dilt],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+542722,nifedipine Extended Release Oral Tablet [Afeditab CR],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+562518,24 HR isradipine 10 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+562520,24 HR isradipine 5 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+577776,candesartan cilexetil 16 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+577785,candesartan cilexetil 4 MG Oral Tablet [Atacand],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+577787,candesartan cilexetil 8 MG Oral Tablet [Atacand],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+578325,candesartan cilexetil 16 MG / hydrochlorothiazide 12.5 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+578330,candesartan cilexetil 32 MG / hydrochlorothiazide 12.5 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+597921,24 HR nisoldipine 20 MG Extended Release Oral Tablet [Sular],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+597967,amlodipine 10 MG / atorvastatin 20 MG Oral Tablet,SCD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+597971,amlodipine 2.5 MG / atorvastatin 10 MG Oral Tablet,SCD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+597974,amlodipine 2.5 MG / atorvastatin 20 MG Oral Tablet,SCD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+597977,amlodipine 5 MG / atorvastatin 10 MG Oral Tablet,SCD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+597980,amlodipine 5 MG / atorvastatin 20 MG Oral Tablet,SCD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+597984,amlodipine 5 MG / atorvastatin 40 MG Oral Tablet,SCD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+597987,amlodipine 10 MG / atorvastatin 10 MG Oral Tablet,SCD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+597990,amlodipine 10 MG / atorvastatin 40 MG Oral Tablet,SCD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+597993,amlodipine 2.5 MG / atorvastatin 40 MG Oral Tablet,SCD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+617327,ethacrynate Oral Tablet,SCDF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+619260,ethacrynate Oral Tablet [Edecrin],SBDF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+629302,diltiazem Extended Release Oral Capsule [Diltzac],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+630032,furosemide 12.5 MG Oral Tablet,SCD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+630034,furosemide Oral Tablet [Salix - substance],SBDF,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+630035,furosemide 12.5 MG Oral Tablet [Salix - substance],SBD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+631239,doxazosin Extended Release Oral Tablet [Cardura],SBDF,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+636042,hydrochlorothiazide 12.5 MG / valsartan 320 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+636045,hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+636360,24 HR doxazosin 4 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+636361,24 HR doxazosin 8 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+639536,candesartan cilexetil 2 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+639537,candesartan cilexetil 32 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+639539,candesartan cilexetil 16 MG Oral Tablet [Atacand],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+639543,candesartan cilexetil 32 MG Oral Tablet [Atacand],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+645036,furosemide 50 MG Oral Tablet [Salix - substance],SBD,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+664767,carvedilol Extended Release Oral Capsule,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+664770,carvedilol Extended Release Oral Capsule [Coreg],SBDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+672920,24 HR nifedipine 30 MG Extended Release Oral Tablet [Afeditab CR],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+672921,24 HR nifedipine 60 MG Extended Release Oral Tablet [Afeditab CR],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+686924,carvedilol 3.125 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+686926,carvedilol 3.125 MG Oral Tablet [Coreg],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+692500,aliskiren Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+700404,aliskiren Oral Tablet [Tekturna],SBDF,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+722125,amlodipine / valsartan Oral Tablet,SCDF,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+722126,amlodipine 10 MG / valsartan 160 MG Oral Tablet,SCD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+722131,amlodipine 10 MG / valsartan 320 MG Oral Tablet,SCD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+722134,amlodipine 5 MG / valsartan 160 MG Oral Tablet,SCD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+722137,amlodipine 5 MG / valsartan 320 MG Oral Tablet,SCD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+724879,amlodipine 10 MG / valsartan 160 MG Oral Tablet [Exforge],SBD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+724887,amlodipine 10 MG / valsartan 320 MG Oral Tablet [Exforge],SBD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+724891,amlodipine 5 MG / valsartan 160 MG Oral Tablet [Exforge],SBD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+724894,amlodipine / valsartan Oral Tablet [Exforge],SBDF,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+724895,amlodipine 5 MG / valsartan 320 MG Oral Tablet [Exforge],SBD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+730860,amlodipine / olmesartan Oral Tablet,SCDF,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+730861,amlodipine 10 MG / olmesartan medoxomil 20 MG Oral Tablet,SCD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+730866,amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet,SCD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+730869,amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet,SCD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+730872,amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet,SCD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+744623,amlodipine / olmesartan Oral Tablet [Azor],SBDF,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+744624,amlodipine 10 MG / olmesartan medoxomil 20 MG Oral Tablet [Azor],SBD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+744628,amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet [Azor],SBD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+744632,amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet [Azor],SBD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+744636,amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet [Azor],SBD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+744885,amlodipine / benazepril Oral Capsule [Lotrel],SBDF,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+745976,bisoprolol / hydrochlorothiazide Oral Tablet [Ziac],SBDF,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+746022,atenolol / chlorthalidone Oral Tablet [Tenoretic],SBDF,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+746023,atenolol 100 MG / chlorthalidone 25 MG Oral Tablet [Tenoretic],SBD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+746030,atenolol 50 MG / chlorthalidone 25 MG Oral Tablet [Tenoretic],SBD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+749833,hydrochlorothiazide 12.5 MG / telmisartan 40 MG Oral Tablet [Micardis-HCT],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+749836,hydrochlorothiazide / telmisartan Oral Tablet [Micardis-HCT],SBDF,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+749837,hydrochlorothiazide 12.5 MG / telmisartan 80 MG Oral Tablet [Micardis-HCT],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+749841,hydrochlorothiazide 25 MG / telmisartan 80 MG Oral Tablet [Micardis-HCT],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+750199,amlodipine 10 MG / atorvastatin 10 MG Oral Tablet [Caduet],SBD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+750203,amlodipine 10 MG / atorvastatin 20 MG Oral Tablet [Caduet],SBD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+750207,amlodipine 10 MG / atorvastatin 40 MG Oral Tablet [Caduet],SBD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+750211,amlodipine 10 MG / atorvastatin 80 MG Oral Tablet [Caduet],SBD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+750215,amlodipine 2.5 MG / atorvastatin 40 MG Oral Tablet [Caduet],SBD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+750218,amlodipine / atorvastatin Oral Tablet [Caduet],SBDF,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+750227,amlodipine 5 MG / atorvastatin 10 MG Oral Tablet [Caduet],SBD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+750231,amlodipine 5 MG / atorvastatin 20 MG Oral Tablet [Caduet],SBD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+750235,amlodipine 5 MG / atorvastatin 40 MG Oral Tablet [Caduet],SBD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+750239,amlodipine 5 MG / atorvastatin 80 MG Oral Tablet [Caduet],SBD,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+751612,nebivolol 10 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+751615,nebivolol Oral Tablet [Bystolic],SBDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+751616,nebivolol 10 MG Oral Tablet [Bystolic],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+751618,nebivolol 2.5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+751620,nebivolol 2.5 MG Oral Tablet [Bystolic],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+751623,nebivolol 5 MG Oral Tablet [Bystolic],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+754717,aliskiren / hydrochlorothiazide Oral Tablet,SCDF,2,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+755528,atenolol 5 MG/ML Oral Solution,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+756436,atenolol Oral Solution,SCDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+757673,amlodipine Disintegrating Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+757674,amlodipine 10 MG Disintegrating Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+757675,amlodipine 2.5 MG Disintegrating Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+757676,amlodipine 5 MG Disintegrating Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+758550,aliskiren / hydrochlorothiazide Oral Tablet [Tekturna HCT],SBDF,2,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+763519,24 HR nisoldipine 17 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+763521,24 HR nisoldipine 17 MG Extended Release Oral Tablet [Sular],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+763574,24 HR nisoldipine 25.5 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+763576,24 HR nisoldipine 25.5 MG Extended Release Oral Tablet [Sular],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+763589,24 HR nisoldipine 34 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+763591,24 HR nisoldipine 34 MG Extended Release Oral Tablet [Sular],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+790489,24 HR nisoldipine 8.5 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+790840,24 HR nisoldipine 8.5 MG Extended Release Oral Tablet [Sular],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+802749,candesartan cilexetil 32 MG / hydrochlorothiazide 25 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+805854,candesartan / hydrochlorothiazide Oral Tablet [Atacand HCT],SBDF,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+805855,candesartan cilexetil 32 MG / hydrochlorothiazide 25 MG Oral Tablet [Atacand HCT],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+805859,candesartan cilexetil 32 MG / hydrochlorothiazide 12.5 MG Oral Tablet [Atacand HCT],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+805863,candesartan cilexetil 16 MG / hydrochlorothiazide 12.5 MG Oral Tablet [Atacand HCT],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+809014,hydrochlorothiazide 12.5 MG / valsartan 80 MG Oral Tablet [Diovan HCT],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+809018,hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet [Diovan HCT],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+809022,hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet [Diovan HCT],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+809026,hydrochlorothiazide 12.5 MG / valsartan 320 MG Oral Tablet [Diovan HCT],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+809029,hydrochlorothiazide / valsartan Oral Tablet [Diovan HCT],SBDF,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+809030,hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet [Diovan HCT],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+809853,hydrochlorothiazide / quinapril Oral Tablet [Accuretic],SBDF,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+809854,hydrochlorothiazide 12.5 MG / quinapril 10 MG Oral Tablet [Accuretic],SBD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+809858,hydrochlorothiazide 12.5 MG / quinapril 20 MG Oral Tablet [Accuretic],SBD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+823934,hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet [Avalide],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+823937,hydrochlorothiazide / irbesartan Oral Tablet [Avalide],SBDF,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+823938,hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet [Avalide],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+823962,hydrochlorothiazide / losartan Oral Tablet [Hyzaar],SBDF,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+823970,hydrochlorothiazide / lisinopril Oral Tablet [Zestoretic],SBDF,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+823971,hydrochlorothiazide 25 MG / lisinopril 20 MG Oral Tablet [Zestoretic],SBD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+823982,hydrochlorothiazide 12.5 MG / lisinopril 20 MG Oral Tablet [Zestoretic],SBD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+823986,hydrochlorothiazide 12.5 MG / lisinopril 10 MG Oral Tablet [Zestoretic],SBD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+827073,nebivolol 20 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+827075,nebivolol 20 MG Oral Tablet [Bystolic],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+830795,24 HR diltiazem hydrochloride 360 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830797,diltiazem Extended Release Oral Capsule [Cardizem],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830798,24 HR diltiazem hydrochloride 360 MG Extended Release Oral Capsule [Cardizem],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830801,24 HR diltiazem hydrochloride 300 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830803,24 HR diltiazem hydrochloride 300 MG Extended Release Oral Capsule [Cardizem],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830837,24 HR diltiazem hydrochloride 240 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830839,24 HR diltiazem hydrochloride 240 MG Extended Release Oral Capsule [Cardizem],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830845,24 HR diltiazem hydrochloride 180 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830847,24 HR diltiazem hydrochloride 180 MG Extended Release Oral Capsule [Cardizem],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830861,24 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830863,24 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule [Cardizem],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830865,12 HR diltiazem hydrochloride 60 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830869,12 HR diltiazem hydrochloride 90 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830872,12 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830874,24 HR diltiazem hydrochloride 120 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830875,diltiazem Extended Release Oral Tablet [Cardizem],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830876,24 HR diltiazem hydrochloride 120 MG Extended Release Oral Tablet [Cardizem],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830877,24 HR diltiazem hydrochloride 180 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830878,24 HR diltiazem hydrochloride 180 MG Extended Release Oral Tablet [Cardizem],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830879,24 HR diltiazem hydrochloride 240 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830880,24 HR diltiazem hydrochloride 240 MG Extended Release Oral Tablet [Cardizem],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830882,24 HR diltiazem hydrochloride 300 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830883,24 HR diltiazem hydrochloride 300 MG Extended Release Oral Tablet [Cardizem],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830897,24 HR diltiazem hydrochloride 360 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830898,24 HR diltiazem hydrochloride 360 MG Extended Release Oral Tablet [Cardizem],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830900,24 HR diltiazem hydrochloride 420 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+830902,24 HR diltiazem hydrochloride 420 MG Extended Release Oral Tablet [Cardizem],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831012,diltiazem hydrochloride 60 MG Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831054,diltiazem hydrochloride 120 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831055,diltiazem hydrochloride 120 MG Oral Tablet [Cardizem],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831102,diltiazem hydrochloride 90 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831103,diltiazem hydrochloride 60 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831193,24 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule [Tiazac],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831196,24 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule [Taztia],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831215,24 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule [Dilt],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831226,24 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule [Cartia],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831244,24 HR diltiazem hydrochloride 180 MG Extended Release Oral Capsule [Tiazac],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831248,24 HR diltiazem hydrochloride 180 MG Extended Release Oral Capsule [Taztia],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831252,24 HR diltiazem hydrochloride 180 MG Extended Release Oral Capsule [Dilt],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831255,24 HR diltiazem hydrochloride 180 MG Extended Release Oral Capsule [Cartia],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831285,24 HR diltiazem hydrochloride 240 MG Extended Release Oral Capsule [Dilt],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831296,24 HR diltiazem hydrochloride 240 MG Extended Release Oral Capsule [Tiazac],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831300,24 HR diltiazem hydrochloride 240 MG Extended Release Oral Capsule [Taztia],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831309,24 HR diltiazem hydrochloride 240 MG Extended Release Oral Capsule [Cartia],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831323,24 HR diltiazem hydrochloride 300 MG Extended Release Oral Capsule [Tiazac],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831325,24 HR diltiazem hydrochloride 300 MG Extended Release Oral Capsule [Taztia],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831338,24 HR diltiazem hydrochloride 300 MG Extended Release Oral Capsule [Cartia],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831347,24 HR diltiazem hydrochloride 360 MG Extended Release Oral Capsule [Tiazac],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831349,24 HR diltiazem hydrochloride 360 MG Extended Release Oral Capsule [Taztia],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831359,24 HR diltiazem hydrochloride 420 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+831360,24 HR diltiazem hydrochloride 420 MG Extended Release Oral Capsule [Tiazac],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+833217,diltiazem hydrochloride 30 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+833219,diltiazem hydrochloride 30 MG Oral Tablet [Cardizem],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+833704,24 HR diltiazem hydrochloride 240 MG Extended Release Oral Capsule [Diltzac],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+833705,24 HR diltiazem hydrochloride 300 MG Extended Release Oral Capsule [Diltzac],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+833707,12 HR diltiazem hydrochloride 60 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+834393,diltiazem hydrochloride 60 MG Oral Tablet [Cardizem],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+845488,ramipril 1.25 MG Oral Capsule,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+845489,ramipril 1.25 MG Oral Capsule [Altace],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+847042,hydrochlorothiazide 25 MG / olmesartan medoxomil 40 MG Oral Tablet [Benicar HCT],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+847055,hydrochlorothiazide 12.5 MG / olmesartan medoxomil 40 MG Oral Tablet [Benicar HCT],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+847059,hydrochlorothiazide / olmesartan Oral Tablet [Benicar HCT],SBDF,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+847060,hydrochlorothiazide 12.5 MG / olmesartan medoxomil 20 MG Oral Tablet [Benicar HCT],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+848130,amlodipine / hydrochlorothiazide / valsartan Oral Tablet,SCDF,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+848131,amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet,SCD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+848134,amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet [Exforge HCT],SBD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+848135,amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet,SCD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+848139,amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet [Exforge HCT],SBD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+848140,amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet,SCD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+848144,amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet [Exforge HCT],SBD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+848145,amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet,SCD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+848148,amlodipine / hydrochlorothiazide / valsartan Oral Tablet [Exforge HCT],SBDF,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+848149,amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet [Exforge HCT],SBD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+848151,amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet,SCD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+848155,amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet [Exforge HCT],SBD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+848524,24 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule [Diltzac],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+849860,diltiazem malate 240 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+854901,bisoprolol fumarate 10 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+854905,bisoprolol fumarate 5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+854908,bisoprolol fumarate 10 MG / hydrochlorothiazide 6.25 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+854910,bisoprolol fumarate 10 MG / hydrochlorothiazide 6.25 MG Oral Tablet [Ziac],SBD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+854916,bisoprolol fumarate 2.5 MG / hydrochlorothiazide 6.25 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+854918,bisoprolol fumarate 2.5 MG / hydrochlorothiazide 6.25 MG Oral Tablet [Ziac],SBD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+854919,bisoprolol fumarate 5 MG / hydrochlorothiazide 6.25 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+854921,bisoprolol fumarate 5 MG / hydrochlorothiazide 6.25 MG Oral Tablet [Ziac],SBD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+854925,perindopril erbumine 8 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+854927,perindopril erbumine 8 MG Oral Tablet [Aceon],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+854984,perindopril erbumine 2 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+854986,perindopril erbumine 2 MG Oral Tablet [Aceon],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+854988,perindopril erbumine 4 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+854990,perindopril erbumine 4 MG Oral Tablet [Aceon],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+854993,indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+856422,hydrochlorothiazide 25 MG / propranolol hydrochloride 40 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+856429,hydrochlorothiazide 25 MG / propranolol hydrochloride 80 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+856448,propranolol hydrochloride 10 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856457,propranolol hydrochloride 20 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856460,24 HR propranolol hydrochloride 120 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856462,24 HR propranolol hydrochloride 120 MG Extended Release Oral Capsule [Inderal],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856470,propranolol Extended Release Oral Capsule [InnoPran],SBDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856471,24 HR propranolol hydrochloride 120 MG Extended Release Oral Capsule [InnoPran],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856481,24 HR propranolol hydrochloride 160 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856483,24 HR propranolol hydrochloride 160 MG Extended Release Oral Capsule [Inderal],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856519,propranolol hydrochloride 40 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856535,24 HR propranolol hydrochloride 60 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856537,24 HR propranolol hydrochloride 60 MG Extended Release Oral Capsule [Inderal],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856556,propranolol hydrochloride 60 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856569,24 HR propranolol hydrochloride 80 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856571,24 HR propranolol hydrochloride 80 MG Extended Release Oral Capsule [Inderal],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856576,24 HR propranolol hydrochloride 80 MG Extended Release Oral Capsule [InnoPran],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856578,propranolol hydrochloride 80 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856615,bendroflumethiazide 2.5 MG / propranolol hydrochloride 80 MG Oral Capsule,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+856616,bendroflumethiazide 5 MG / propranolol hydrochloride 160 MG Extended Release Oral Capsule,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+856703,propranolol hydrochloride 10 MG/ML Oral Solution,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856704,propranolol hydrochloride 1 MG/ML Oral Solution,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856712,propranolol hydrochloride 16 MG/ML Oral Solution,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856713,propranolol hydrochloride 160 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856719,propranolol hydrochloride 2 MG/ML Oral Solution,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856724,propranolol hydrochloride 4 MG/ML Oral Solution,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856733,propranolol hydrochloride 8 MG/ML Oral Solution,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856735,propranolol hydrochloride 80 MG Oral Capsule,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856737,propranolol hydrochloride 80 MG/ML Oral Solution,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+856739,propranolol hydrochloride 90 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+857166,fosinopril sodium 10 MG / hydrochlorothiazide 12.5 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+857169,fosinopril sodium 10 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+857174,fosinopril sodium 20 MG / hydrochlorothiazide 12.5 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+857183,fosinopril sodium 20 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+857187,fosinopril sodium 40 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+858580,12 HR nicardipine hydrochloride 45 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+858587,12 HR nicardipine hydrochloride 30 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+858613,nicardipine hydrochloride 20 MG Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+858616,nicardipine hydrochloride 30 MG Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+858804,enalapril maleate 2.5 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+858806,enalapril maleate 2.5 MG Oral Tablet [Vasotec],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+858810,enalapril maleate 20 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+858812,enalapril maleate 20 MG Oral Tablet [Vasotec],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+858813,enalapril maleate 5 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+858815,enalapril maleate 5 MG Oral Tablet [Vasotec],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+858817,enalapril maleate 10 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+858819,enalapril maleate 10 MG Oral Tablet [Vasotec],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+858824,enalapril maleate 5 MG / hydrochlorothiazide 12.5 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+858826,enalapril / hydrochlorothiazide Oral Tablet [Vaseretic],SBDF,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+858828,enalapril maleate 10 MG / hydrochlorothiazide 25 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+858830,enalapril maleate 10 MG / hydrochlorothiazide 25 MG Oral Tablet [Vaseretic],SBD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+858921,enalapril maleate 20 MG / hydrochlorothiazide 12.5 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+860510,24 HR carvedilol phosphate 10 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+860512,24 HR carvedilol phosphate 10 MG Extended Release Oral Capsule [Coreg],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+860516,24 HR carvedilol phosphate 20 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+860518,24 HR carvedilol phosphate 20 MG Extended Release Oral Capsule [Coreg],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+860522,24 HR carvedilol phosphate 40 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+860524,24 HR carvedilol phosphate 40 MG Extended Release Oral Capsule [Coreg],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+860532,24 HR carvedilol phosphate 80 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+860534,24 HR carvedilol phosphate 80 MG Extended Release Oral Capsule [Coreg],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+862005,guanfacine Extended Release Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+862006,24 HR guanfacine 1 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+862009,guanfacine Extended Release Oral Tablet [Intuniv],SBDF,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+862010,24 HR guanfacine 1 MG Extended Release Oral Tablet [Intuniv],SBD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+862013,24 HR guanfacine 2 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+862015,24 HR guanfacine 2 MG Extended Release Oral Tablet [Intuniv],SBD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+862019,24 HR guanfacine 3 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+862021,24 HR guanfacine 3 MG Extended Release Oral Tablet [Intuniv],SBD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+862025,24 HR guanfacine 4 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+862027,24 HR guanfacine 4 MG Extended Release Oral Tablet [Intuniv],SBD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+864774,aliskiren / valsartan Oral Tablet,SCDF,2,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1
+865154,bisoprolol fumarate 1.25 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+865155,bisoprolol fumarate 2.5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+865157,bisoprolol fumarate 3.75 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+865159,bisoprolol fumarate 7.5 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+865577,metoprolol Extended Release Oral Tablet [Toprol],SBDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+866412,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+866414,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet [Toprol],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+866419,24 HR metoprolol succinate 200 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+866421,24 HR metoprolol succinate 200 MG Extended Release Oral Tablet [Toprol],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+866427,24 HR metoprolol succinate 25 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+866429,24 HR metoprolol succinate 25 MG Extended Release Oral Tablet [Toprol],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+866436,24 HR metoprolol succinate 50 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+866438,24 HR metoprolol succinate 50 MG Extended Release Oral Tablet [Toprol],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+866452,24 HR hydrochlorothiazide 12.5 MG / metoprolol succinate 100 MG Extended Release Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+866479,hydrochlorothiazide 25 MG / metoprolol tartrate 100 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+866482,hydrochlorothiazide 25 MG / metoprolol tartrate 50 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+866491,hydrochlorothiazide 50 MG / metoprolol tartrate 100 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+866497,hydrochlorothiazide / metoprolol Oral Tablet [Lopressor HCT],SBDF,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+866498,hydrochlorothiazide 25 MG / metoprolol tartrate 100 MG Oral Tablet [Lopressor HCT],SBD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+866502,hydrochlorothiazide 25 MG / metoprolol tartrate 50 MG Oral Tablet [Lopressor HCT],SBD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+866511,metoprolol tartrate 100 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+866513,metoprolol tartrate 100 MG Oral Tablet [Lopressor],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+866514,metoprolol tartrate 50 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+866516,metoprolol tartrate 50 MG Oral Tablet [Lopressor],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+866924,metoprolol tartrate 25 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+876513,amlodipine / telmisartan Oral Tablet,SCDF,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+876514,amlodipine 10 MG / telmisartan 40 MG Oral Tablet,SCD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+876517,amlodipine / telmisartan Oral Tablet [Twynsta],SBDF,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+876518,amlodipine 10 MG / telmisartan 40 MG Oral Tablet [Twynsta],SBD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+876519,amlodipine 10 MG / telmisartan 80 MG Oral Tablet,SCD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+876523,amlodipine 10 MG / telmisartan 80 MG Oral Tablet [Twynsta],SBD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+876524,amlodipine 5 MG / telmisartan 40 MG Oral Tablet,SCD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+876528,amlodipine 5 MG / telmisartan 40 MG Oral Tablet [Twynsta],SBD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+876529,amlodipine 5 MG / telmisartan 80 MG Oral Tablet,SCD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+876533,amlodipine 5 MG / telmisartan 80 MG Oral Tablet [Twynsta],SBD,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+876534,verapamil Extended Release Oral Tablet [Isoptin],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+882559,hydrochlorothiazide 25 MG / quinapril 20 MG Oral Tablet [Accuretic],SBD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+884173,clonidine hydrochloride 0.1 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+884185,clonidine hydrochloride 0.2 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+884189,clonidine hydrochloride 0.3 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+884198,chlorthalidone 15 MG / clonidine hydrochloride 0.2 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+884203,chlorthalidone 15 MG / clonidine hydrochloride 0.3 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+885399,verapamil Extended Release Oral Tablet [Calan],SBDF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+885790,clonidine Extended Release Suspension,SCDF,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+885794,clonidine Extended Release Oral Tablet,SCDF,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+885880,24 HR clonidine 0.17 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+892791,clonidine hydrochloride 0.025 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+892795,clonidine hydrochloride 0.25 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+896758,labetalol hydrochloride 100 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+896762,labetalol hydrochloride 200 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+896766,labetalol hydrochloride 300 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+896777,labetalol hydrochloride 100 MG Oral Tablet [Trandate],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+896781,labetalol hydrochloride 200 MG Oral Tablet [Trandate],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+896783,labetalol hydrochloride 300 MG Oral Tablet [Trandate],SBD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+896976,hydrochlorothiazide 25 MG / labetalol hydrochloride 300 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+896983,labetalol hydrochloride 400 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+896987,labetalol hydrochloride 50 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+897584,24 HR verapamil hydrochloride 100 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897586,24 HR verapamil hydrochloride 100 MG Extended Release Oral Capsule [Verelan],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897590,24 HR verapamil hydrochloride 200 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897592,24 HR verapamil hydrochloride 200 MG Extended Release Oral Capsule [Verelan],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897596,24 HR verapamil hydrochloride 300 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897598,24 HR verapamil hydrochloride 300 MG Extended Release Oral Capsule [Verelan],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897612,24 HR verapamil hydrochloride 120 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897614,24 HR verapamil hydrochloride 120 MG Extended Release Oral Capsule [Verelan],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897618,24 HR verapamil hydrochloride 180 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897620,24 HR verapamil hydrochloride 180 MG Extended Release Oral Capsule [Verelan],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897624,24 HR verapamil hydrochloride 240 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897626,24 HR verapamil hydrochloride 240 MG Extended Release Oral Capsule [Verelan],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897630,24 HR verapamil hydrochloride 360 MG Extended Release Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897632,24 HR verapamil hydrochloride 360 MG Extended Release Oral Capsule [Verelan],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897640,verapamil hydrochloride 180 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897649,verapamil hydrochloride 240 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897659,verapamil hydrochloride 120 MG Extended Release Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897661,verapamil hydrochloride 120 MG Extended Release Oral Tablet [Calan],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897666,verapamil hydrochloride 120 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897676,verapamil hydrochloride 180 MG Extended Release Oral Tablet [Calan],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897680,verapamil hydrochloride 240 MG Extended Release Oral Tablet [Calan],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897683,verapamil hydrochloride 80 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897693,verapamil hydrochloride 120 MG Extended Release Oral Tablet [Isoptin],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897700,verapamil hydrochloride 180 MG Extended Release Oral Tablet [Isoptin],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897714,verapamil hydrochloride 240 MG Extended Release Oral Tablet [Isoptin],SBD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897722,verapamil hydrochloride 40 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+897781,24 HR trandolapril 1 MG / verapamil hydrochloride 240 MG Extended Release Oral Tablet,SCD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+897783,24 HR trandolapril 2 MG / verapamil hydrochloride 180 MG Extended Release Oral Tablet,SCD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+897844,24 HR trandolapril 2 MG / verapamil hydrochloride 240 MG Extended Release Oral Tablet,SCD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+897853,24 HR trandolapril 4 MG / verapamil hydrochloride 240 MG Extended Release Oral Tablet,SCD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+898340,verapamil hydrochloride 180 MG Oral Capsule,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+898342,amlodipine 10 MG / benazepril hydrochloride 20 MG Oral Capsule,SCD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+898344,amlodipine 10 MG / benazepril hydrochloride 20 MG Oral Capsule [Lotrel],SBD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+898346,amlodipine 10 MG / benazepril hydrochloride 40 MG Oral Capsule,SCD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+898348,amlodipine 10 MG / benazepril hydrochloride 40 MG Oral Capsule [Lotrel],SBD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+898350,amlodipine 2.5 MG / benazepril hydrochloride 10 MG Oral Capsule,SCD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+898353,amlodipine 5 MG / benazepril hydrochloride 10 MG Oral Capsule,SCD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+898355,amlodipine 5 MG / benazepril hydrochloride 10 MG Oral Capsule [Lotrel],SBD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+898356,amlodipine 5 MG / benazepril hydrochloride 20 MG Oral Capsule,SCD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+898358,amlodipine 5 MG / benazepril hydrochloride 20 MG Oral Capsule [Lotrel],SBD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+898359,amlodipine 5 MG / benazepril hydrochloride 40 MG Oral Capsule,SCD,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+898362,benazepril hydrochloride 10 MG / hydrochlorothiazide 12.5 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+898366,benazepril hydrochloride 10 MG / hydrochlorothiazide 12.5 MG Oral Tablet [Lotensin HCT],SBD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+898367,benazepril hydrochloride 20 MG / hydrochlorothiazide 12.5 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+898371,benazepril hydrochloride 20 MG / hydrochlorothiazide 12.5 MG Oral Tablet [Lotensin HCT],SBD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+898372,benazepril hydrochloride 20 MG / hydrochlorothiazide 25 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+898376,benazepril hydrochloride 20 MG / hydrochlorothiazide 25 MG Oral Tablet [Lotensin HCT],SBD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+898378,benazepril hydrochloride 5 MG / hydrochlorothiazide 6.25 MG Oral Tablet,SCD,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+898381,benazepril / hydrochlorothiazide Oral Tablet [Lotensin HCT],SBDF,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+898687,benazepril hydrochloride 10 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+898689,benazepril hydrochloride 10 MG Oral Tablet [Lotensin],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+898690,benazepril hydrochloride 20 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+898692,benazepril hydrochloride 20 MG Oral Tablet [Lotensin],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+898719,benazepril hydrochloride 40 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+898721,benazepril hydrochloride 40 MG Oral Tablet [Lotensin],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+898723,benazepril hydrochloride 5 MG Oral Tablet,SCD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+898725,benazepril hydrochloride 5 MG Oral Tablet [Lotensin],SBD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+901438,verapamil hydrochloride 160 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+901446,verapamil hydrochloride 240 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+901450,verapamil hydrochloride 8 MG/ML Oral Solution,SCD,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+905199,hydralazine hydrochloride 10 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+905203,hydralazine hydrochloride 100 MG / hydrochlorothiazide 50 MG Oral Capsule,SCD,2,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1
+905211,hydralazine hydrochloride 25 MG / hydrochlorothiazide 25 MG Oral Capsule,SCD,2,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1
+905217,hydralazine hydrochloride 50 MG / hydrochlorothiazide 50 MG Oral Capsule,SCD,2,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1
+905222,hydralazine hydrochloride 100 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+905225,hydralazine hydrochloride 25 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+905353,hydralazine hydrochloride 25 MG / hydrochlorothiazide 15 MG / reserpine 0.1 MG Oral Tablet,SCD,3,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1
+905395,hydralazine hydrochloride 50 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+92084,doxazosin Oral Tablet [Cardura],SBDF,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+92254,nadolol Oral Tablet [Corgard],SBDF,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+92479,chlorothiazide Oral Suspension [Diuril],SBDF,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+93252,hydrochlorothiazide 50 MG / triamterene 75 MG Oral Tablet [Maxzide],SBD,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+93253,hydrochlorothiazide 25 MG / triamterene 37.5 MG Oral Tablet [Maxzide],SBD,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+977880,amiloride hydrochloride 5 MG Oral Tablet,SCD,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+977883,amiloride hydrochloride 5 MG / hydrochlorothiazide 50 MG Oral Tablet,SCD,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+977887,amiloride hydrochloride 1 MG/ML Oral Solution,SCD,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+977890,amiloride hydrochloride 10 MG / furosemide 80 MG Oral Tablet,SCD,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+977907,amiloride hydrochloride 2.5 MG / cyclopenthiazide 0.25 MG Oral Tablet,SCD,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+977920,amiloride hydrochloride 2.5 MG / atenolol 50 MG / hydrochlorothiazide 25 MG Oral Capsule,SCD,3,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1
+977945,amiloride hydrochloride 2.5 MG / furosemide 20 MG Oral Tablet,SCD,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+977949,amiloride hydrochloride 2.5 MG / hydrochlorothiazide 25 MG / timolol maleate 10 MG Oral Tablet,SCD,3,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1
+977950,amiloride hydrochloride 2.5 MG / hydrochlorothiazide 25 MG Oral Tablet,SCD,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+977951,amiloride hydrochloride 5 MG / bumetanide 1 MG Oral Tablet,SCD,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+977959,amiloride hydrochloride 5 MG / furosemide 40 MG Oral Tablet,SCD,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+979464,hydrochlorothiazide 12.5 MG / losartan potassium 100 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+979466,hydrochlorothiazide 12.5 MG / losartan potassium 100 MG Oral Tablet [Hyzaar],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+979468,hydrochlorothiazide 12.5 MG / losartan potassium 50 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+979470,hydrochlorothiazide 12.5 MG / losartan potassium 50 MG Oral Tablet [Hyzaar],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+979471,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet,SCD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+979473,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet [Hyzaar],SBD,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1
+979480,losartan potassium 100 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+979482,losartan potassium 100 MG Oral Tablet [Cozaar],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+979485,losartan potassium 25 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+979487,losartan potassium 25 MG Oral Tablet [Cozaar],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+979492,losartan potassium 50 MG Oral Tablet,SCD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+979494,losartan potassium 50 MG Oral Tablet [Cozaar],SBD,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+998671,168 HR clonidine 0.00417 MG/HR Transdermal System,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+998673,168 HR clonidine 0.00417 MG/HR Transdermal System [Catapres],SBD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+998675,168 HR clonidine 0.00833 MG/HR Transdermal System,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+998677,168 HR clonidine 0.00833 MG/HR Transdermal System [Catapres],SBD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+998679,168 HR clonidine 0.0125 MG/HR Transdermal System,SCD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+998681,168 HR clonidine 0.0125 MG/HR Transdermal System [Catapres],SBD,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+998685,acebutolol 400 MG Oral Capsule,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+998689,acebutolol 200 MG Oral Capsule,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+998693,acebutolol 100 MG Oral Capsule,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+998694,acebutolol 200 MG / hydrochlorothiazide 12.5 MG Oral Tablet,SCD,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1
+998695,acebutolol 400 MG Oral Tablet,SCD,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+999966,amlodipine / hydrochlorothiazide / olmesartan Oral Tablet,SCDF,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+999967,amlodipine 5 MG / hydrochlorothiazide 12.5 MG / olmesartan medoxomil 20 MG Oral Tablet,SCD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+999970,amlodipine / hydrochlorothiazide / olmesartan Oral Tablet [Tribenzor],SBDF,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+999971,amlodipine 5 MG / hydrochlorothiazide 12.5 MG / olmesartan medoxomil 20 MG Oral Tablet [Tribenzor],SBD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+999986,amlodipine 10 MG / hydrochlorothiazide 12.5 MG / olmesartan medoxomil 40 MG Oral Tablet,SCD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+999990,amlodipine 10 MG / hydrochlorothiazide 12.5 MG / olmesartan medoxomil 40 MG Oral Tablet [Tribenzor],SBD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+999991,amlodipine 10 MG / hydrochlorothiazide 25 MG / olmesartan medoxomil 40 MG Oral Tablet,SCD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+999995,amlodipine 10 MG / hydrochlorothiazide 25 MG / olmesartan medoxomil 40 MG Oral Tablet [Tribenzor],SBD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
+999996,amlodipine 5 MG / hydrochlorothiazide 12.5 MG / olmesartan medoxomil 40 MG Oral Tablet,SCD,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
