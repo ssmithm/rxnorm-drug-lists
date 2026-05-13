@@ -1,215 +1,148 @@
 # Antihypertensive Drugs
 
-**Last updated:  February 2023**
+**Last updated:  May 12, 2026**
 
-**Current through RxNorm Release: December 5, 2022**
+**Current through RxNorm Release: May, 2026**
 
 
-These SAS datasets contain a curated list of **antihypertensive drugs**, labeled with therapeutic class. They are derived from RxNorm, published by the U.S. National Library of Medicine. The lists include currently-prescribable drugs, as well as historical RXCUIs that are obsolete, or have been depricated. The NDC list in particular, is optimized for use with the PCORnet common data model, which specifies use of 11-digit NDC numbers. NDC numbers of other lengths are not included, even though they may be specified in RxNorm datasets.
+These CSV datasets in this folder contain a curated list of **antihypertensive drugs**, labeled with therapeutic classes. They are derived from RxNorm, published by the U.S. National Library of Medicine, using the R package [rxref](https://www.stevenmsmith.org/rxref/). The lists include currently-prescribable drugs, as well as historical RXCUIs that are obsolete, or have been depricated. The NDC list, is optimized for use with the PCORnet common data model, which specifies use of 11-digit NDC numbers. NDC numbers of other lengths are not included, even though they may be specified in RxNorm datasets.
 
-Antihtn_RXCUI_classes includes **all** antihypertensives. A separate file, contained in the BPcontrolLab folder, contains a similar list, but with injectable dosage forms removed (including all nitroprusside and esmolol RXCUIs). It is possible that this list contains a small number of RXCUIs that represent products which *may* be injectables; however, the term type (TTY) for these RXCUIs does not definitively provide a dosage form, and it is not possible in most of these cases to distinguish, for example, oral liquids from injectable liquids. 
+Note the list of drugs included below. **This list is specifically formulated to include typical outpatient antihypertensives used in chronic hypertension management; it does not include, for example, injectable only antihypertensives used in the inpatient setting.** However, the accompanying R script could be modified to include such antinypertensives. 
+
+Separate files, contained in the `bpcl` folder, contain the same list, but with class indicator variables.
 
 
 
 ### Datasets & Corresponding variables
 
-#### Antihtn_RXCUI_classes
+#### antihtn_rxcuis.csv
 
 1.  RXCUI: RxNorm concept unique identifier
-2.  RXAUI: RxNorm atom unique identifier
-3.  SAB: Source of data for RxNorm entry (all "RXNORM" in these files)
-4.  STR:  Description of drug/product
-5.  TTY:  RxNorm Term Type
-6.  medname1:  medication name (all drugs have non-NULL medname1)
-7.  medname2:  medication name (single drug entities will have NULL medname2; combination products will contain information in medname2)
-8.  medname3:  medication name (single drug entities will have NULL medname3; *only 3-drug combination products* will contain information in medname3, else NULL)
-9.  class1:  therapeutic class of corresponding medname (i.e., medname1); all entries have non-NULL class1.
-10. class2:  therapeutic class of corresponding medname (i.e., medname2); NULL if corresponding medname is NULL. 
-11. class3:  therapeutic class of corresponding medname (i.e., medname3); NULL if corresponding medname is NULL. 
-12. n_drugs: # of antihypertensives in product
-13. FDC:  indicator variable for fixed-dose combination (1=yes; 0=no);
-14. single_medname_var:  equivalent to medname1 for non-combination products; concatenated list of drugs for combination products; concatenated lists are ordered alphabetically for consistency.
-15. single_class_var: equivalent to class1 for non-combination products; concatenated list of classes for combination products; concatenated lists are ordered alphabetically for consistency.
+2.  STR:  Description of drug/product
+3.  TTY:  RxNorm Term Type
+4.  n_drugs: # of antihypertensives in product
+5.  ingredient_name: primary ingredient of RxCUI (may be one of several for fixed-dose combinations)
+6.  routes: route of administration
+7.  dose_forms: dosage formulation
+8.  dose_form_groups: dosage formulation grouping (curated)
+9.  FDC: fixed-dose combination; logical (1=FDC; 0=non-FDC)
+10. class = antihypertensive class
 
-#### Antihtn_NDC_classes (derived from antihtn_rxcui_classes)
-1. STR:  Description of drug/product
-2. medname#:  medication name (all drugs have non-NULL medname1; combination products will contain information in medname2 +/- medname3)
-3. medname2:  (as above)
-4. medname3:  (as above)
-5. class1: therapeutic class of corresponding medname (i.e., class1 refers to medname1; class2 refers to medname2; etc)
-6. class2: (as above)
-7. class3: (as above) 
-8. single_medname_var:  equivalent to medname1 for non-combination products; concatenated list of drugs for combination products
-9. single_class_var: equivalent to class1 for non-combination products; concatenated list of classes for combination products
-10. FDC:  indicator variable for fixed-dose combination (1=yes; 0=no)
-11. n_drugs: # of antihypertensives in product
-12. RXCUI: RxNorm concept unique identifier
-13. RXAUI: RxNorm atom unique identifier
-14. STYPE: (generally ignorable - RxNorm-asserted value)
-15. CODE: (generally ignorable - RxNorm-asserted value)
-16. SAB_SAT: Source of data for RxNorm entry (generally ignorable)
-17. ndcnum:  11-digit NDC number
-31. SUPPRESS: (generally ignorable - RxNorm-asserted value)
-32. IN:  last RxNorm monthly release file in which the NDC was observed, represented as YYYYMMDD
-
-#### Antihtn_RXCUI_strength (also derived from antihtn_rxcui_classes)
-
-1. RXCUI: RxNorm concept unique identifier
-2. STR:  Description of drug/product
-3. rxcui_related_scdc: RXCUI of the related (as asserted by RxNorm) Semantic Clinical Drug Component 
-4. medname1:  standardized antihypertensive medication name
-5. RXN_STRENGTH:  strength of the product
-6. RXN_STRENGTH_NUM_VALUE:  (parsed) numerator value of the RXN_STRENGTH
-7. RXN_STRENGTH_NUM_UNIT: (parsed) numerator unit of the RXN_STRENGTH
-8. RXN_STRENGTH_DENOM_VALUE: (parsed) denominator value of the RXN_STRENGTH (for pills = 1)
-9. RXN_STRENGTH_DENOM_UNIT: (parsed) denominator unit of the RXN_STRENGTH (for pills = 1)
+#### antihtn_ndcs.csv (derived from antihtn_rxcuis)
+1. rxcui: RxNorm concept unique identifier
+2. related_rxcui
+3. ndc11: 11-digit NDC 
+4. ndc_start_date: date of first representation of NDC in RxNorm
+5. ndc_end_date: date of last representation of NDC in RxNorm
+6. ndc_status: NDC status (active or obsolete)
+7. STR:  Description of drug/product
+8. TTY:  RxNorm Term Type
+9. n_drugs: # of antihypertensives in product
+10. ingredient_name: primary ingredient of RxCUI (may be one of several for fixed-dose combinations)
+11. routes: route of administration
+12. dose_forms: dosage formulation
+13. dose_form_groups: dosage formulation grouping (curated)
+14. FDC: fixed-dose combination; logical (1=FDC; 0=non-FDC)
+15. class = antihypertensive class
 
 
 ### Medications included
 
 #### Angiotensin Receptor Blockers (class=ARB)
-- LOSARTAN
-- OLMESARTAN
-- TELMISARTAN
-- TELMISARTIN
-- CANDESARTAN
-- EPROSARTAN
-- AZILSARTAN
-- IRBESARTAN
-- VALSARTAN
+- azilsartan
+- candesartan
+- irbesartan
+- losartan
+- olmesartan
+- telmisartan
+- valsartan
+- eprosartan
 
 #### ACE inhibitors (class=ACE)
-- BENAZEPRIL
-- CAPTOPRIL
-- CILAZAPRIL
-- ENALAPRIL
-- ENALAPRILAT
-- FOSINOPRIL
-- LISINOPRIL
-- MOEXIPRIL
-- MOEXIPRILAT
-- PERINDOPRIL
-- PERINDOPRILAT
-- QUINAPRIL
-- QUINAPRILAT
-- RAMIPRIL
-- RAMIPRILAT
-- TRANDOLAPRIL
-- TRANDOLAPRILAT
+- benazepril
+- captopril
+- enalapril
+- fosinopril
+- lisinopril
+- moexipril
+- perindopril
+- quinapril
+- ramipril
+- trandolapril
 
 #### Direct renin inhibitors (class=DRI)
-- ALISKIREN
+- aliskiren
 
 #### Beta Blockers (class=BB)
-- ACEBUTOLOL
-- ATENOLOL
-- NADOLOL
-- OXPRENOLOL
-- BETAXOLOL
-- BISOPROLOL
-- CARTEOLOL
-- TIMOLOL
-- BUCINDOLOL
-- ESMOLOL
-- LABETALOL
-- CARVEDILOL
-- METOPROLOL
-- PROPRANOLOL
-- NEBIVOLOL
-- PENBUTOLOL
-- PINDOLOL
-- SOTALOL
-- METIPRANOLOL
+- acebutolol
+- atenolol
+- betaxolol
+- bisoprolol
+- carvedilol
+- labetalol
+- metoprolol
+- nadolol
+- nebivolol
+- penbutolol
+- pindolol
+- propranolol
+- timolol
 
 #### Non-dihydropyridine Calcium channel blockers (class=NONDHP_CCB)
-- VERAPAMIL
-- DILTIAZEM
+- verapamil
+- diltiazem
 
 #### Dihydropyridine calcium channel blockers (class=DHP_CCB)
-- NIFEDIPINE
-- NICARDIPINE
-- FELODIPINE
-- BENIDIPINE
-- ISRADIPINE
-- NILVADIPINE
-- NIMODIPINE
-- NISOLDIPINE
-- NITRENDIPINE
-- AMLODIPINE
-- AZELNIDIPINE
-- CLEVIDIPINE
-- EFONIDIPINE
-- LACIDIPINE
-- LERCANIDIPINE
-- MANIDIPINE
-- LEVAMLODIPINE
-- CILNIDIPINE
+- amlodipine
+- felodipine
+- isradipine
+- nicardipine
+- nifedipine
+- nisoldipine
+- levamlodipine
 
 #### Thiazide Diuretics (class=THIAZIDE_DIURETIC)
-- BENDROFLUMETHIAZIDE
-- CHLORTALIDONE
-- CHLORTHALIDONE
-- HYDROCHLOROTHIAZIDE
-- HCTZ
-- CHLOROTHIAZIDE
-- METHYCLOTHIAZIDE
-- POLYTHIAZIDE
-- BUTHIAZIDE
-- CYCLOTHIAZIDE
-- BENZOTHIAZIDE
-- XIPAMIDE
-- FLUMETHIAZIDE
-- CLOPAMIDE
-- ALTHIAZIDE
-- INDAPAMIDE
-- METOLAZONE
-- TRICHLORMETHIAZIDE
-- CYCLOPENTHIAZIDE
-- HYDROFLUMETHIAZIDE
+- bendroflumethiazide
+- chlorothiazide
+- chlorthalidone
+- hydrochlorothiazide
+- indapamide
+- methyclothiazide
+- metolazone
+- polythiazide
+- trichlormethiazide
 
 #### Potassium-sparing Diuretics (class=K_SPARING_DIURETIC) 
-- AMILORIDE
-- TRIAMTERENE
+- amiloride
+- triamterene
 
 #### Aldosterone Antagonists (class=ALDO_ANTAGONIST) 
-- EPLERENONE
-- SPIRONOLACTONE
+- eplerenone
+- spironolactone
 
 #### Loop Diuretics (class=LOOP)
-- BUMETANIDE
-- TORSEMIDE
-- FUROSEMIDE
-- ETHACRYNIC (ACID)
-- ETHACRYNATE
-- EDECRIN
+- bumetanide
+- torsemide
+- furosemide
+- ethacrynate
 
 #### Alpha1 blockers (class=ALPHA_BLOCKER)
-- PRAZOSIN
-- TERAZOSIN
-- DOXAZOSIN
-- PHENOXYBENZAMINE
-- PHENTOLAMINE
+- doxazosin
+- prazosin
+- terazosin
 
 #### Centrally-acting agents (class=CENTRALLY_ACTING)
-- CLONIDINE
-- METHYLDOPA
-- METHYLDOPATE
-- GUANABENZ
-- GUANFACINE
-- GUANADREL
-- GUANETHIDINE
-- MOXONIDINE
-- RILMENIDINE
+- clonidine
+- guanabenz
+- guanfacine
+- methyldopa
 
 #### Vasodilators (class=VASODILATOR)
-- MINOXIDIL
-- HYDRALAZINE
-- NITROPRUSSIDE
+- hydralazine
+- minoxidil
 
 #### Others (class=OTHER)
-- RESERPINE
-- DESERPIDINE
-- RAUWOLFIA
-- SERPENTINA
-
+- guanadrel
+- guanethidine
+- reserpine
 
